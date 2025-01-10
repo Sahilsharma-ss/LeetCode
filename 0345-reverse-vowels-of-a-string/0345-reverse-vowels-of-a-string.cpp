@@ -3,7 +3,6 @@ public:
     string reverseVowels(string s) {
         int n = s.size() - 1;
         int i = 0;
-
         while (i < n) {
             if ((s[i] == 'a' || s[i] == 'e' || s[i] == 'i' || s[i] == 'o' || s[i] == 'u' ||
                  s[i] == 'A' || s[i] == 'E' || s[i] == 'I' || s[i] == 'O' || s[i] == 'U')) {
@@ -16,10 +15,9 @@ public:
                     n--; 
                 }
             } else {
-                i++; // Move the 'i' pointer to check the next character from the beginning
+                i++; 
             }
         }
-
         return s;
     }
 };
