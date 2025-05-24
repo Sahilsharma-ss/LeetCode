@@ -1,20 +1,14 @@
 class Solution {
 public:
     vector<int> findWordsContaining(vector<string>& words, char x) {
-        vector<int>ans;
-        int j=0;
-        for(auto w : words)
+        vector<int>res;
+        for(int i=0;i<words.size();i++)
         {
-            for(int i=0;i<w.size();i++)
+            if(words[i].find(x)!=std :: string :: npos)
             {
-                if(w[i]==x)
-                {
-                    ans.push_back(j);
-                    break;
-                }
+                res.push_back(i);
             }
-            j++;
         }
-        return ans;
+        return res;
     }
 };
