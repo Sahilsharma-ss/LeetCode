@@ -1,10 +1,14 @@
 class Solution {
 public:
     int strStr(string haystack, string needle) {
-            for (int i = 0; i <= haystack.length() - needle.length(); ++i) {
-            if (haystack.substr(i, needle.length()) == needle) {
-                return i;
+        int m = haystack.length();
+        int n = needle.length();
+        for(int i=0;i<=m-n;i++){
+            int j=0;
+            for(;j<n;j++){
+                if(haystack[i+j] != needle[j]) break;
             }
+            if(j==n) return i;
         }
         return -1;
     }
