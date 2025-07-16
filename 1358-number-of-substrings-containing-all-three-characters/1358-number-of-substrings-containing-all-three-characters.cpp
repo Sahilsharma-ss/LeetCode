@@ -1,24 +1,24 @@
 class Solution {
 public:
-    bool ischar(char ch) { return ch == 'a' || ch == 'b' || ch == 'c'; }
-
-    int numberOfSubstrings(std::string s) {
-        int n = s.length();
-        std::unordered_map<char, int> mp;
-        int i = 0, j = 0, count = 0;
-
-        while (j < n) {
-            mp[s[j]]++;
-            j++;
-
-            while (mp.size() == 3) {
-                count += (n - j + 1);
-                mp[s[i]]--;
-                if (mp[s[i]] == 0)
-                    mp.erase(s[i]);
-                i++;
+    int numberOfSubstrings(string s) {
+        int n=s.size();
+        unordered_map<char,int>mp;
+        int l=0,r=0,res=0;
+        while(r<n)
+        {
+            mp[s[r]]++;
+            while(mp.size()==3)
+            {
+                mp[s[l]]--;
+                if(mp[s[l]]==0) 
+                {
+                    mp.erase(s[l]);
+                }
+                res+=n-r;
+                l++;
             }
+            r++;
         }
-        return count;
+        return res;
     }
 };
