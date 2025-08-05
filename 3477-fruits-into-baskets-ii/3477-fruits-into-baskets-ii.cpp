@@ -1,29 +1,21 @@
 class Solution {
 public:
     int numOfUnplacedFruits(vector<int>& fruits, vector<int>& baskets) {
-    
-        for(int i=0;i<fruits.size();i++)
+        int n=fruits.size();
+        int m=baskets.size();
+        int cnt=0;
+        for(int i=0;i<n;i++)
         {
-            for(int j=0;j<baskets.size();j++)
+            for(int j=0;j<n;j++)
             {
-                if(fruits[i]<baskets[j])
+                if(baskets[j]>=fruits[i]&&baskets[j]!=1e9)
                 {
-                    fruits[i]=0;
-                    baskets[j]=0;
-                  //  baskets.erase(baskets.begin()+j);
+                    cnt++;
+                    baskets[j]=1e9;
                     break;
                 }
             }
         }
-        int c=0;
-        for(int i=0;i<fruits.size();i++)
-        {
-            if(fruits[i]!=0)
-            {
-                c++;
-            }
-        }
-        
-        return c;
+        return m-cnt;
     }
 };
