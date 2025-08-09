@@ -4,23 +4,16 @@ public:
     {
         if(ind==nums.size())
         {
-            if(sum==target)
+            if(target==0)
             {
                 res.push_back(curr);
             }
             return;
         }
-        int c=0;
-        while(sum+nums[ind]<=target)
+        if(nums[ind]<=target)
         {
-            sum+=nums[ind];
             curr.push_back(nums[ind]);
-            c++;
-            solve(ind+1,sum,target,res,curr,nums);
-        }
-        while(c--)
-        {
-            sum-=nums[ind];
+            solve(ind,sum,target-nums[ind],res,curr,nums);
             curr.pop_back();
         }
         solve(ind+1,sum,target,res,curr,nums);
