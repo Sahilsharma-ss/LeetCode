@@ -16,8 +16,8 @@ public:
             sum+=nums[ind];
             curr.push_back(nums[ind]);
             c++;
+            solve(ind+1,sum,target,res,curr,nums);
         }
-        solve(ind+1,sum,target,res,curr,nums);
         while(c--)
         {
             sum-=nums[ind];
