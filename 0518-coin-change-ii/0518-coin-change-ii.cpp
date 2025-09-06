@@ -1,22 +1,21 @@
 class Solution {
 public:
+    int solve(int ind,int tar,vector<vector<int>>&dp,vector<int>& coins)
+    {
+        if(tar==0) return 1;
+        if(ind==0) return(tar%coins[0]==0?1:0);
+        if(dp[ind][tar]!=-1) return dp[ind][tar];
+        int not_take=0+solve(ind-1,tar,dp,coins);
+        int take=0;
+        if(coins[ind]<=tar)
+        {
+            take=solve(ind,tar-coins[ind],dp,coins);
+        }
+        return dp[ind][tar]=take+not_take;
+    }
     int change(int amount, vector<int>& coins) {
         int n=coins.size();
-        vector<vector<unsigned long long>>dp(n,vector<unsigned long long>(amount+1,0));
-        for(int t=0;t<=amount;t++)
-        {
-            dp[0][t]=(t%coins[0]==0);
-        }
-        for(int i=1;i<n;i++)
-        {
-            for(int t=0;t<=amount;t++)
-            {
-               unsigned  long long not_take=dp[i-1][t];
-                unsigned long long take=0;
-                if(coins[i]<=t) take=dp[i][t-coins[i]];
-                dp[i][t]=take+not_take;
-            }
-        }
-        return int(dp[n-1][amount]);
+        vector<vector<int>>dp(n+1,vector<int>(amount+1,-1));
+        return solve(n-1,amount,dp,coins);
     }
 };
