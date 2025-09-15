@@ -1,8 +1,11 @@
 class Solution {
 public:
     int minSubArrayLen(int target, vector<int>& nums) {
+        int l=0;
+        int r=0;
         int n=nums.size();
-        int l=0,r=0,sum=0,minlen=1e9;
+        int mini=1e9;
+        int sum=0;
         while(r<n)
         {
             sum+=nums[r];
@@ -11,15 +14,12 @@ public:
                 sum-=nums[l];
                 l++;
             }
-            if(sum>=target)
+            if(sum==target)
             {
-                int len=r-l+1;
-                minlen=min(minlen,len);
+                mini=min(mini,r-l+1);
             }
             r++;
         }
-        if(minlen==1e9) return 0;
-        return minlen;
+        return mini==1e9?0:mini;
     }
-
 };
