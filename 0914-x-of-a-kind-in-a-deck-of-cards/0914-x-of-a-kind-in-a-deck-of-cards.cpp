@@ -7,13 +7,19 @@ public:
             mp[i]++;
         }
         set<int>st;
-        int size=mp[deck[0]];
+        int ele=deck[0];
+        int g=mp[deck[0]];
+        for(auto i : mp)
+        {
+            g=gcd(g,i.second);
+        }
+        if(g<=1) return false;
         for(auto i : mp)
         {
             if(i.second<=1) return false;
-            if(i.second%size==0)
+            if(i.second%g==0)
             {
-               st.insert(size);
+               st.insert(g);
             }
             else
             {
