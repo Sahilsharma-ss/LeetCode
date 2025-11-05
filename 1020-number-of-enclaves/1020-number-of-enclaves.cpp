@@ -1,54 +1,51 @@
 class Solution {
 public:
-    vector<pair<int, int>> dir{{0, -1}, {0, 1}, {-1, 0}, {1, 0}};
+    int n,m;
+    vector<pair<int,int>>dir{{-1,0},{0,1},{1,0},{0,-1}};
+    void dfs(int i,int j,vector<vector<int>>& grid,vector<vector<int>>&vis,int &sum,bool &reached)
+    {
+        if(i==0 || j==0 || i==n-1 || j==m-1)
+        {
+            reached = true;
+        }
+        sum+=grid[i][j];
+        vis[i][j]=1;
+        for(auto [dx,dy] : dir)
+        {
+            int x=i+dx;
+            int y=j+dy;
+            if(x>=0 && y>=0 && x<n && y<m && grid[x][y]==1 && !vis[x][y])
+            {
+                dfs(x,y,grid,vis,sum,reached);
+            }
+        }
+    }
     int numEnclaves(vector<vector<int>>& grid) {
-        int m = grid.size();
-        int n = grid[0].size();
-        queue<pair<int, int>> q;
-        vector<vector<int>> vis(m, vector<int>(n, 0));
-        for (int i = 0; i < n; i++) {
-            if (grid[0][i] == 1) {
-                q.push({0, i});
-                vis[0][i] = 1;
-            }
-            if (grid[m - 1][i] == 1) {
-                q.push({m - 1, i});
-                vis[m - 1][i] = 1;
-            }
-        }
-        for (int i = 0; i < m; i++) {
-            if (grid[i][0] == 1) {
-                q.push({i, 0});
-                vis[i][0] = 1;
-            }
-            if (grid[i][n - 1] == 1) {
-                q.push({i, n - 1});
-                vis[i][n - 1] = 1;
-            }
-        }
-
-        while (!q.empty()) {
-            int u = q.front().first;
-            int v = q.front().second;
-            q.pop();
-            for (auto [i, j] : dir) {
-                int i_ = u + i;
-                int j_ = v + j;
-                if (i_ >= 0 && i_ < m && j_ >= 0 && j_ < n &&
-                    vis[i_][j_] == 0 && grid[i_][j_] == 1) {
-                    q.push({i_, j_});
-                    vis[i_][j_] = 1;
+        n=grid.size();
+        m=grid[0].size();
+        vector<vector<int>>vis(n,vector<int>(m,0));
+        int res=0;
+        int total_one=0;
+        for(int i=0;i<n;i++)
+        {
+            for(int j=0;j<m;j++)
+            {
+                if(grid[i][j]==1)
+                {
+                    total_one+=1;
+                }
+                if(grid[i][j]==1 && !vis[i][j])
+                {
+                    int sum =0;
+                    bool reached = false;
+                    dfs(i,j,grid,vis,sum,reached);
+                    if(reached)
+                    {
+                        res+=sum;
+                    }
                 }
             }
         }
-        int cnt = 0;
-        for (int i = 0; i < m; i++) {
-            for (int j = 0; j < n; j++) {
-                if (grid[i][j] == 1 && vis[i][j] == 0) {
-                    cnt++;
-                }
-            }
-        }
-        return cnt;
+        return total_one - res;
     }
 };
