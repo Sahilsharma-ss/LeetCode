@@ -1,22 +1,16 @@
 class Solution {
 public:
     string addBinary(string a, string b) {
-        string result = ""; 
-        int carry = 0;    
-        int i = a.size() - 1; 
-        int j = b.size() - 1; 
 
-        while (i >= 0 || j >= 0 || carry) {
-            int sum = carry; // Start with the carry
-            
-            if (i >= 0) sum += a[i--] - '0';
-            if (j >= 0) sum += b[j--] - '0'; 
-            
-            carry = sum / 2; // Update carry (sum divided by 2)
-            result += (sum % 2) + '0'; 
-        }
+        long long no1 = stoll(a, nullptr, 2);
+        long long no2 = stoll(b, nullptr, 2);
 
-        reverse(result.begin(), result.end()); // Reverse the result string
-        return result;
+        long long res = no1 + no2;
+
+        string ans = bitset<64>(res).to_string();
+
+        if(res == 0) return "0";
+
+        return ans.substr(ans.find('1'));
     }
 };
