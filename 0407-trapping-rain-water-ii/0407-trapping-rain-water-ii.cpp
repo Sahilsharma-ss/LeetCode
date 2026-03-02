@@ -1,45 +1,23 @@
 class Solution {
 public:
-    int trapRainWater(vector<vector<int>>& heightMap) {
-        int m = heightMap.size();
-        int n = heightMap[0].size();
+    int maxWater(vector<int> &arr) {
+        int n = arr.size();
+        if(n == 0) return 0;
 
-        if(m < 3 || n < 3) return 0; // all boundries
-
-        priority_queue<pair<int,pair<int,int>>, vector<pair<int,pair<int,int>>>, greater<pair<int,pair<int,int>>>> pq;
-        vector<vector<bool>> visited(m, vector<bool> (n, false));
-        for(int i = 0; i < m; i++){
-            for(int j = 0; j < n; j++){
-                if(i == 0 || i == m-1 || j == 0 || j == n-1){
-                    pq.push({heightMap[i][j],{i,j}}); // all boundries
-                    visited[i][j] = true;
-                }
-            }
+        vector<int> inc(n), dec(n);
+        inc[0] = arr[0];
+        for(int i = 1; i < n; i++) {
+            inc[i] = max(inc[i-1], arr[i]);
         }
-        vector<pair<int,int>> direction = {{0,-1}, {0,1}, {-1,0}, {1,0}};
-
-        int result = 0;
-
-        while(!pq.empty())
-        {
-            auto curr = pq.top();
-            pq.pop();
-
-            int height = curr.first;
-            int cx = curr.second.first;
-            int cy = curr.second.second;
-
-            for(auto dir : direction){
-                int nx = cx + dir.first;
-                int ny = cy + dir.second;
-
-                if(nx >= 0 && nx < m && ny >= 0 && ny < n && !visited[nx][ny]){
-                    visited[nx][ny] = true;
-                    result = result + max(height - heightMap[nx][ny], 0); // taking zero in sum if negative
-                    pq.push({max(heightMap[nx][ny], height), {nx,ny}}); // pass height of maximum
-                }
-            }
+        dec[n-1] = arr[n-1];
+        for(int i = n-2; i >= 0; i--) {
+            dec[i] = max(dec[i+1], arr[i]);
         }
-        return result;
-    }
+        int water = 0;
+        for(int i = 0; i < n; i++) {
+            water += min(inc[i], dec[i]) - arr[i];
+        }
+
+        return water;
+    }
 };
