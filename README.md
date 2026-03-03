@@ -10,6 +10,7 @@ leetCode solutions.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0207-course-schedule/) | Medium |
+| [0210-course-schedule-ii](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0210-course-schedule-ii/) | Medium |
 | [0407-trapping-rain-water-ii](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0407-trapping-rain-water-ii/) | Hard |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -35,12 +36,15 @@ leetCode solutions.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0207-course-schedule/) | Medium |
+| [0210-course-schedule-ii](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0210-course-schedule-ii/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0207-course-schedule/) | Medium |
+| [0210-course-schedule-ii](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0210-course-schedule-ii/) | Medium |
 ## Topological Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0207-course-schedule/) | Medium |
+| [0210-course-schedule-ii](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0210-course-schedule-ii/) | Medium |
 <!---LeetCode Topics End-->
