@@ -1,54 +1,52 @@
 class Solution {
 public:
-    vector<pair<int,int>>dir{{1,0},{-1,0},{0,-1},{0,1}};
+    vector<vector<int>>dir{{-1,0},{0,1},{1,0},{0,-1}};
     int orangesRotting(vector<vector<int>>& grid) {
-        int n=grid.size();
-        int m=grid[0].size();
-        queue<pair<pair<int,int>,int>>q;
-        vector<vector<int>>vis(n,vector<int>(m,0));
+        int n= grid.size();
+        int m = grid[0].size();
+        queue<pair<int,pair<int,int>>>q;
         for(int i=0;i<n;i++)
         {
-            for(int j=0;j<m;j++)
+            for(int j = 0;j<m;j++)
             {
                 if(grid[i][j]==2)
                 {
-                   q.push({{i,j},0});
-                   vis[i][j]=1;
+                    q.push({0,{i,j}});
                 }
             }
         }
-        int cnt=0;
+        int min = 0;
+        vector<vector<int>>vis(n,vector<int>(m,0));
+        int cnt =0;
         while(!q.empty())
         {
-            int u=q.front().first.first;
-            int v=q.front().first.second;
-            int t=q.front().second;
+            int i = q.front().second.first;
+            int j = q.front().second.second;
+            min = q.front().first;
+            grid[i][j] =2;
             q.pop();
-            cnt=max(cnt,t);
-            for(auto [i,j] : dir)
+            for(auto &d : dir)
             {
-                int i_ = u+i;
-                int j_ =v+j;
-                if(i_>=0&&i_<n &&j_>=0&&j_<m)
+                int i_ = i+d[0];
+                int j_ = j+d[1];
+                if(i_<n && i_>=0 && j_>=0 && j_<m && !vis[i_][j_] && grid[i_][j_]==1)
                 {
-                    if(vis[i_][j_]!=2 && grid[i_][j_]==1)
-                    {
-                        vis[i_][j_]=2;
-                        q.push({{i_,j_},t+1});
-                    }
+                    int currt = min+1;
+                    q.push({currt,{i_,j_}});
+                    grid[i_][j_] = 2;
                 }
             }
         }
-        for(int i=0;i<n;i++)
+         for(int i=0;i<n;i++)
         {
-            for(int j=0;j<m;j++)
+            for(int j = 0;j<m;j++)
             {
-                if(grid[i][j]==1 && vis[i][j]!=2)
+                if(grid[i][j]==1)
                 {
                     return -1;
                 }
             }
         }
-        return cnt;
+        return min;
     }
 };
