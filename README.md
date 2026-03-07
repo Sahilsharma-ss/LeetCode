@@ -33,6 +33,7 @@ leetCode solutions.
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Sahilsharma-ss/LeetCode/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Sahilsharma-ss/LeetCode/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Sahilsharma-ss/LeetCode/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Sahilsharma-ss/LeetCode/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [2957-remove-adjacent-almost-equal-characters](https://github.com/Sahilsharma-ss/LeetCode/tree/main/2957-remove-adjacent-almost-equal-characters/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
@@ -64,6 +65,7 @@ leetCode solutions.
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Sahilsharma-ss/LeetCode/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [2957-remove-adjacent-almost-equal-characters](https://github.com/Sahilsharma-ss/LeetCode/tree/main/2957-remove-adjacent-almost-equal-characters/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
@@ -74,4 +76,8 @@ leetCode solutions.
 | ------- | ------- |
 | [0785-is-graph-bipartite](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0886-possible-bipartition](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0886-possible-bipartition/) | Medium |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Sahilsharma-ss/LeetCode/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 <!---LeetCode Topics End-->
