@@ -1,50 +1,41 @@
 class Solution {
 public:
     vector<int>parent;
-    vector<int>rank;
-    
     int find(int x)
     {
-        if(x==parent[x]) return x;
-        return parent[x]=find(parent[x]);
+        if(x==parent[x])
+        {
+            return x;
+        } 
+        return parent[x] = find(parent[x]);
     }
-    void Union(int x,int y)
+    bool unite(int a ,int b)
     {
-        int x_p=find(x);
-        int y_p=find(y);
-        if(x_p==y_p) return;
-        if(x_p>y_p)
-        {
-            parent[y_p]=x_p;
-        }
-        else if(x_p<y_p)
-        {
-            parent[x_p]=y_p;
-        }
-        else
-        {
-            parent[x_p]=y_p;
-            rank[y_p]++;
-        }
+        int pa = find(a);
+        int pb = find(b);
+        if(pa==pb) return true;
+        parent[pb] = pa;
+        return false;
     }
     int makeConnected(int n, vector<vector<int>>& connections) {
-        parent.resize(n);
-        rank.resize(n,0);
-        if(connections.size()<n-1) return -1;
-        for(int i=0;i<n;i++)
+       // if(n-1>connections.size()) return -1;
+        int con = 0;
+        parent.resize(n,0);
+        for(int i=0;i<n;i++)    
         {
-            parent[i]=i;
+            parent[i] = i;
         }
-        for(auto &i : connections)
+        for(auto i : connections)
         {
-            int x=find(i[0]);
-            int y=find(i[1]);
-            if(x!=y)
-            {
-                Union(x,y);
-                n--;
-            }
+            int a  = i[0];
+            int b = i[1];
+            if(unite(a,b)) con++;
         }
-        return n-1;
+        int components = 0;
+        for(int i=0;i<n;i++){
+            if(find(i)==i) components++;
+        }
+        int need = components-1;
+        return (con>=need)?need:-1;
     }
 };
