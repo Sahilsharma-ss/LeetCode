@@ -1,9 +1,9 @@
 class Dsu {
 public:
-    vector<int> parent, size;
+    vector<int> parent, rank;
     Dsu(int n) {
         parent.resize(n, 0);
-        size.resize(n, 1);
+        rank.resize(n, 1);
         for (int i = 0; i < n; i++) {
             parent[i] = i;
         }
@@ -18,13 +18,13 @@ public:
         int pb = find(b);
         if (pa == pb)
             return true;
-        if (size[pa] < size[pb]) {
+        if (rank[pa] < rank[pb]) {
             parent[pa] = pb;
-        } else if (size[pb] < size[pa]) {
+        } else if (rank[pb] < rank[pa]) {
             parent[pb] = pa;
         } else {
             parent[pb] = pa;
-            size[pa]++;
+            rank[pa]++;
         }
         return false;
     }
