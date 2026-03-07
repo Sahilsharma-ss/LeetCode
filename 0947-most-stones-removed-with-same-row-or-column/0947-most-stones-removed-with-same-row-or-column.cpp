@@ -1,54 +1,59 @@
-class Solution {
+class Dsu {
 public:
-    vector<int> parent;
-    vector<int> rank;
-
-    int find(int a) {
-        if (parent[a] != a)
-            parent[a] = find(parent[a]);
-        return parent[a];
+    vector<int> parent, size;
+    Dsu(int n) {
+        parent.resize(n, 0);
+        size.resize(n, 1);
+        for (int i = 0; i < n; i++) {
+            parent[i] = i;
+        }
     }
-
-    void Union(int a, int b) {
+    int find(int x) {
+        if (x == parent[x])
+            return x;
+        return parent[x] = find(parent[x]);
+    }
+    int unite(int a, int b) {
         int pa = find(a);
         int pb = find(b);
-        if (pa == pb) return;
-        if (rank[pa] < rank[pb]) {
+        if (pa == pb)
+            return true;
+        if (size[pa] < size[pb]) {
             parent[pa] = pb;
-        } else if (rank[pa] > rank[pb]) {
+        } else if (size[pb] < size[pa]) {
             parent[pb] = pa;
         } else {
-            parent[pa] = pb;
-            rank[pb]++;
+            parent[pb] = pa;
+            size[pa]++;
         }
+        return false;
     }
-
-    int removeStones(vector<vector<int>>& stones) {
-        int maxRow = 0, maxCol = 0;
-        for (auto& stone : stones) {
-            maxRow = max(maxRow, stone[0]);
-            maxCol = max(maxCol, stone[1]);
+};
+ class Solution {
+public:
+    int removeStones(vector<vector<int>>& stones) 
+    { 
+        int n = stones.size();
+        Dsu dsu(n);
+        for(int i=0;i<n;i++)
+        {
+            for(int j=i+1;j<n;j++)
+            {
+                if(stones[i][0]==stones[j][0] || stones[i][1]==stones[j][1])
+                {
+                    dsu.unite(i,j);
+                }
+            }
         }
-
-        int size = maxRow + maxCol + 2;
-        parent.resize(size);
-        rank.resize(size, 0);
-        for (int i = 0; i < size; i++) parent[i] = i;
-
-        for (auto& stone : stones) {
-            int r = stone[0];
-            int c = stone[1] + maxRow + 1;
-            Union(r, c);
+        //  for(int i=0;i<n;i++)
+        // {
+        //    cout<<dsu.find(i)<<" ";
+        // }
+        unordered_set<int>st;
+        for(int i=0;i<n;i++)
+        {
+            st.insert(dsu.find(i));
         }
-
-        set<int> roots;
-        for (auto& stone : stones) {
-            int r = stone[0];
-            int c = stone[1] + maxRow + 1;
-            roots.insert(find(r));
-            roots.insert(find(c));
-        }
-
-        return stones.size() - roots.size();
+        return n-st.size();
     }
 };
