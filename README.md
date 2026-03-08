@@ -9,6 +9,7 @@ leetCode solutions.
 | [0721-accounts-merge](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0721-accounts-merge/) | Medium |
 | [0994-rotting-oranges](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0994-rotting-oranges/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Sahilsharma-ss/LeetCode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
+| [1980-find-unique-binary-string](https://github.com/Sahilsharma-ss/LeetCode/tree/main/1980-find-unique-binary-string/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -38,6 +39,7 @@ leetCode solutions.
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Sahilsharma-ss/LeetCode/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Sahilsharma-ss/LeetCode/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Sahilsharma-ss/LeetCode/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
+| [1980-find-unique-binary-string](https://github.com/Sahilsharma-ss/LeetCode/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2957-remove-adjacent-almost-equal-characters](https://github.com/Sahilsharma-ss/LeetCode/tree/main/2957-remove-adjacent-almost-equal-characters/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
@@ -97,8 +99,13 @@ leetCode solutions.
 | ------- | ------- |
 | [0721-accounts-merge](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0721-accounts-merge/) | Medium |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0947-most-stones-removed-with-same-row-or-column/) | Medium |
+| [1980-find-unique-binary-string](https://github.com/Sahilsharma-ss/LeetCode/tree/main/1980-find-unique-binary-string/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0721-accounts-merge](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0721-accounts-merge/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1980-find-unique-binary-string](https://github.com/Sahilsharma-ss/LeetCode/tree/main/1980-find-unique-binary-string/) | Medium |
 <!---LeetCode Topics End-->
