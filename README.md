@@ -9,6 +9,7 @@ leetCode solutions.
 | [0407-trapping-rain-water-ii](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0407-trapping-rain-water-ii/) | Hard |
 | [0721-accounts-merge](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0721-accounts-merge/) | Medium |
 | [0994-rotting-oranges](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0994-rotting-oranges/) | Medium |
+| [1306-jump-game-iii](https://github.com/Sahilsharma-ss/LeetCode/tree/main/1306-jump-game-iii/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Sahilsharma-ss/LeetCode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/Sahilsharma-ss/LeetCode/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/Sahilsharma-ss/LeetCode/tree/main/2784-check-if-array-is-good/) | Easy |
@@ -22,6 +23,7 @@ leetCode solutions.
 | [0785-is-graph-bipartite](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0886-possible-bipartition](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0886-possible-bipartition/) | Medium |
 | [0994-rotting-oranges](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0994-rotting-oranges/) | Medium |
+| [1306-jump-game-iii](https://github.com/Sahilsharma-ss/LeetCode/tree/main/1306-jump-game-iii/) | Medium |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Sahilsharma-ss/LeetCode/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -60,6 +62,7 @@ leetCode solutions.
 | [0785-is-graph-bipartite](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0886-possible-bipartition](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0886-possible-bipartition/) | Medium |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0947-most-stones-removed-with-same-row-or-column/) | Medium |
+| [1306-jump-game-iii](https://github.com/Sahilsharma-ss/LeetCode/tree/main/1306-jump-game-iii/) | Medium |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Sahilsharma-ss/LeetCode/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
