@@ -16,6 +16,7 @@ leetCode solutions.
 | [2540-minimum-common-value](https://github.com/Sahilsharma-ss/LeetCode/tree/main/2540-minimum-common-value/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Sahilsharma-ss/LeetCode/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/Sahilsharma-ss/LeetCode/tree/main/2784-check-if-array-is-good/) | Easy |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Sahilsharma-ss/LeetCode/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -49,6 +50,7 @@ leetCode solutions.
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Sahilsharma-ss/LeetCode/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/Sahilsharma-ss/LeetCode/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2957-remove-adjacent-almost-equal-characters](https://github.com/Sahilsharma-ss/LeetCode/tree/main/2957-remove-adjacent-almost-equal-characters/) | Medium |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Sahilsharma-ss/LeetCode/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -115,6 +117,7 @@ leetCode solutions.
 | [2540-minimum-common-value](https://github.com/Sahilsharma-ss/LeetCode/tree/main/2540-minimum-common-value/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Sahilsharma-ss/LeetCode/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/Sahilsharma-ss/LeetCode/tree/main/2784-check-if-array-is-good/) | Easy |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Sahilsharma-ss/LeetCode/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -143,4 +146,8 @@ leetCode solutions.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2540-minimum-common-value](https://github.com/Sahilsharma-ss/LeetCode/tree/main/2540-minimum-common-value/) | Easy |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Sahilsharma-ss/LeetCode/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 <!---LeetCode Topics End-->
