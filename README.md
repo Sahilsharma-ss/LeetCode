@@ -46,6 +46,7 @@ leetCode solutions.
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0721-accounts-merge](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0721-accounts-merge/) | Medium |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Sahilsharma-ss/LeetCode/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Sahilsharma-ss/LeetCode/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
@@ -119,6 +120,7 @@ leetCode solutions.
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0721-accounts-merge](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0721-accounts-merge/) | Medium |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0947-most-stones-removed-with-same-row-or-column/) | Medium |
 | [1345-jump-game-iv](https://github.com/Sahilsharma-ss/LeetCode/tree/main/1345-jump-game-iv/) | Hard |
@@ -162,6 +164,11 @@ leetCode solutions.
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Sahilsharma-ss/LeetCode/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3093-longest-common-suffix-queries](https://github.com/Sahilsharma-ss/LeetCode/tree/main/3093-longest-common-suffix-queries/) | Hard |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 <!---LeetCode Topics End-->
