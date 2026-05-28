@@ -104,10 +104,10 @@ public:
 
             string str = i;
             reverse(str.begin(), str.end());
-            if(str.size()>maxi)
-            {
-                str = str.substr(0,maxi+100);
-            }
+            // if(str.size()>maxi)
+            // {
+            //     str = str.substr(0,maxi);
+            // }
             trie->insert(str);
         }
 
