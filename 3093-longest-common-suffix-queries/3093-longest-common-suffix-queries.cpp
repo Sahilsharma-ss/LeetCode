@@ -1,3 +1,4 @@
+int maxi;
 class Trie {
     struct Node {
         Node* links[26];
@@ -55,9 +56,9 @@ public:
         ind++;
 
         root->update(ind, word.size());
-
+        int c = 0;
         for(auto ch : word) {
-
+            if(c==maxi) break;
             if(!node->containskey(ch)) {
                 node->putchar(ch, new Node());
             }
@@ -65,6 +66,7 @@ public:
             node = node->get(ch);
 
             node->update(ind, word.size());
+            c++;
         }
 
         node->setend();
@@ -93,7 +95,7 @@ public:
                               vector<string>& wordsQuery) {
 
         Trie* trie = new Trie();
-        int maxi = -1e9;
+        maxi = -1e9;
         for(auto i : wordsQuery)
         {
             maxi = max(maxi,(int)i.size());
