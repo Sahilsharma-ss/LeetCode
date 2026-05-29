@@ -82,16 +82,22 @@ public:
             t->insert(i);
         }
         int maxi = 0;
-        string ans;
+        string ans  = "";
         sort(words.begin(),words.end());
         for(auto i : words)
         {
-            int len = t->longestInDict(i);
-            if(len>maxi)
+           if(t->longestInDict(i))
+           {
+            if(i.size()>maxi)
+                {
+                    ans = i;
+                    maxi = i.size();
+                }
+            else if(i.size()==maxi && i< ans)
             {
                 ans = i;
-                maxi = i.size();
             }
+           }
         }
         return ans;
     }
