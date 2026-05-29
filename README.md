@@ -48,6 +48,7 @@ leetCode solutions.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0208-implement-trie-prefix-tree/) | Medium |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 | [0721-accounts-merge](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0721-accounts-merge/) | Medium |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Sahilsharma-ss/LeetCode/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Sahilsharma-ss/LeetCode/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
@@ -73,6 +74,7 @@ leetCode solutions.
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0210-course-schedule-ii/) | Medium |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 | [0721-accounts-merge](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0721-accounts-merge/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0886-possible-bipartition](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0886-possible-bipartition/) | Medium |
@@ -166,12 +168,14 @@ leetCode solutions.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0208-implement-trie-prefix-tree/) | Medium |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Sahilsharma-ss/LeetCode/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3093-longest-common-suffix-queries](https://github.com/Sahilsharma-ss/LeetCode/tree/main/3093-longest-common-suffix-queries/) | Hard |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0208-implement-trie-prefix-tree/) | Medium |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
