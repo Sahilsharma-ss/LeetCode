@@ -18,6 +18,7 @@ leetCode solutions.
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Sahilsharma-ss/LeetCode/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/Sahilsharma-ss/LeetCode/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2126-destroying-asteroids](https://github.com/Sahilsharma-ss/LeetCode/tree/main/2126-destroying-asteroids/) | Medium |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Sahilsharma-ss/LeetCode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2540-minimum-common-value](https://github.com/Sahilsharma-ss/LeetCode/tree/main/2540-minimum-common-value/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Sahilsharma-ss/LeetCode/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/Sahilsharma-ss/LeetCode/tree/main/2784-check-if-array-is-good/) | Easy |
@@ -114,6 +115,7 @@ leetCode solutions.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2126-destroying-asteroids](https://github.com/Sahilsharma-ss/LeetCode/tree/main/2126-destroying-asteroids/) | Medium |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Sahilsharma-ss/LeetCode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2957-remove-adjacent-almost-equal-characters](https://github.com/Sahilsharma-ss/LeetCode/tree/main/2957-remove-adjacent-almost-equal-characters/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
@@ -150,6 +152,7 @@ leetCode solutions.
 | [0721-accounts-merge](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0721-accounts-merge/) | Medium |
 | [1268-search-suggestions-system](https://github.com/Sahilsharma-ss/LeetCode/tree/main/1268-search-suggestions-system/) | Medium |
 | [2126-destroying-asteroids](https://github.com/Sahilsharma-ss/LeetCode/tree/main/2126-destroying-asteroids/) | Medium |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Sahilsharma-ss/LeetCode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/Sahilsharma-ss/LeetCode/tree/main/2784-check-if-array-is-good/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
