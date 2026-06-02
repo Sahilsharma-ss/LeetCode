@@ -17,6 +17,7 @@ leetCode solutions.
 | [1306-jump-game-iii](https://github.com/Sahilsharma-ss/LeetCode/tree/main/1306-jump-game-iii/) | Medium |
 | [1345-jump-game-iv](https://github.com/Sahilsharma-ss/LeetCode/tree/main/1345-jump-game-iv/) | Hard |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Sahilsharma-ss/LeetCode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
+| [1707-maximum-xor-with-an-element-from-array](https://github.com/Sahilsharma-ss/LeetCode/tree/main/1707-maximum-xor-with-an-element-from-array/) | Hard |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Sahilsharma-ss/LeetCode/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/Sahilsharma-ss/LeetCode/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2126-destroying-asteroids](https://github.com/Sahilsharma-ss/LeetCode/tree/main/2126-destroying-asteroids/) | Medium |
@@ -182,6 +183,7 @@ leetCode solutions.
 | ------- | ------- |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0421-maximum-xor-of-two-numbers-in-an-array/) | Medium |
 | [1009-complement-of-base-10-integer](https://github.com/Sahilsharma-ss/LeetCode/tree/main/1009-complement-of-base-10-integer/) | Easy |
+| [1707-maximum-xor-with-an-element-from-array](https://github.com/Sahilsharma-ss/LeetCode/tree/main/1707-maximum-xor-with-an-element-from-array/) | Hard |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Sahilsharma-ss/LeetCode/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -208,6 +210,7 @@ leetCode solutions.
 | [0677-map-sum-pairs](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0677-map-sum-pairs/) | Medium |
 | [0720-longest-word-in-dictionary](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0720-longest-word-in-dictionary/) | Medium |
 | [1268-search-suggestions-system](https://github.com/Sahilsharma-ss/LeetCode/tree/main/1268-search-suggestions-system/) | Medium |
+| [1707-maximum-xor-with-an-element-from-array](https://github.com/Sahilsharma-ss/LeetCode/tree/main/1707-maximum-xor-with-an-element-from-array/) | Hard |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Sahilsharma-ss/LeetCode/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3093-longest-common-suffix-queries](https://github.com/Sahilsharma-ss/LeetCode/tree/main/3093-longest-common-suffix-queries/) | Hard |
 ## Design
