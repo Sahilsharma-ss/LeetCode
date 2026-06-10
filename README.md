@@ -118,6 +118,7 @@ leetCode solutions.
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0343-integer-break](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0343-integer-break/) | Medium |
 | [1871-jump-game-vii](https://github.com/Sahilsharma-ss/LeetCode/tree/main/1871-jump-game-vii/) | Medium |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Sahilsharma-ss/LeetCode/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [2957-remove-adjacent-almost-equal-characters](https://github.com/Sahilsharma-ss/LeetCode/tree/main/2957-remove-adjacent-almost-equal-characters/) | Medium |
@@ -235,6 +236,7 @@ leetCode solutions.
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0343-integer-break](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0343-integer-break/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Sahilsharma-ss/LeetCode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/Sahilsharma-ss/LeetCode/tree/main/3753-total-waviness-of-numbers-in-range-ii/) | Hard |
 ## Binary Indexed Tree
