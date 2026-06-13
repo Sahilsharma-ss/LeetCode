@@ -39,6 +39,7 @@ leetCode solutions.
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Sahilsharma-ss/LeetCode/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3689-maximum-total-subarray-value-i](https://github.com/Sahilsharma-ss/LeetCode/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Sahilsharma-ss/LeetCode/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
+| [3838-weighted-word-mapping](https://github.com/Sahilsharma-ss/LeetCode/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -88,6 +89,7 @@ leetCode solutions.
 | [3093-longest-common-suffix-queries](https://github.com/Sahilsharma-ss/LeetCode/tree/main/3093-longest-common-suffix-queries/) | Hard |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Sahilsharma-ss/LeetCode/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Sahilsharma-ss/LeetCode/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
+| [3838-weighted-word-mapping](https://github.com/Sahilsharma-ss/LeetCode/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -96,6 +98,7 @@ leetCode solutions.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Sahilsharma-ss/LeetCode/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
+| [3838-weighted-word-mapping](https://github.com/Sahilsharma-ss/LeetCode/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
