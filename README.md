@@ -44,6 +44,7 @@ leetCode solutions.
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Sahilsharma-ss/LeetCode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Sahilsharma-ss/LeetCode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Sahilsharma-ss/LeetCode/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
+| [3620-network-recovery-pathways](https://github.com/Sahilsharma-ss/LeetCode/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Sahilsharma-ss/LeetCode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Sahilsharma-ss/LeetCode/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3689-maximum-total-subarray-value-i](https://github.com/Sahilsharma-ss/LeetCode/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
@@ -73,6 +74,7 @@ leetCode solutions.
 | [1268-search-suggestions-system](https://github.com/Sahilsharma-ss/LeetCode/tree/main/1268-search-suggestions-system/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Sahilsharma-ss/LeetCode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Sahilsharma-ss/LeetCode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
+| [3620-network-recovery-pathways](https://github.com/Sahilsharma-ss/LeetCode/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Sahilsharma-ss/LeetCode/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
 ## Matrix
 | Problem Name | Difficulty |
@@ -149,11 +151,13 @@ leetCode solutions.
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0947-most-stones-removed-with-same-row-or-column/) | Medium |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Sahilsharma-ss/LeetCode/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Sahilsharma-ss/LeetCode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
+| [3620-network-recovery-pathways](https://github.com/Sahilsharma-ss/LeetCode/tree/main/3620-network-recovery-pathways/) | Hard |
 ## Topological Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0210-course-schedule-ii/) | Medium |
+| [3620-network-recovery-pathways](https://github.com/Sahilsharma-ss/LeetCode/tree/main/3620-network-recovery-pathways/) | Hard |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -170,6 +174,7 @@ leetCode solutions.
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Sahilsharma-ss/LeetCode/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Sahilsharma-ss/LeetCode/tree/main/3130-find-all-possible-stable-binary-arrays-ii/) | Hard |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Sahilsharma-ss/LeetCode/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
+| [3620-network-recovery-pathways](https://github.com/Sahilsharma-ss/LeetCode/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Sahilsharma-ss/LeetCode/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Sahilsharma-ss/LeetCode/tree/main/3700-number-of-zigzag-arrays-ii/) | Hard |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/Sahilsharma-ss/LeetCode/tree/main/3753-total-waviness-of-numbers-in-range-ii/) | Hard |
@@ -273,6 +278,7 @@ leetCode solutions.
 | [2540-minimum-common-value](https://github.com/Sahilsharma-ss/LeetCode/tree/main/2540-minimum-common-value/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Sahilsharma-ss/LeetCode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3161-block-placement-queries](https://github.com/Sahilsharma-ss/LeetCode/tree/main/3161-block-placement-queries/) | Hard |
+| [3620-network-recovery-pathways](https://github.com/Sahilsharma-ss/LeetCode/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Sahilsharma-ss/LeetCode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Sahilsharma-ss/LeetCode/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 ## Two Pointers
@@ -374,4 +380,5 @@ leetCode solutions.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Sahilsharma-ss/LeetCode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
+| [3620-network-recovery-pathways](https://github.com/Sahilsharma-ss/LeetCode/tree/main/3620-network-recovery-pathways/) | Hard |
 <!---LeetCode Topics End-->
