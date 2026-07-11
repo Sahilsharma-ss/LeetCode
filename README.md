@@ -71,6 +71,7 @@ leetCode solutions.
 | [1345-jump-game-iv](https://github.com/Sahilsharma-ss/LeetCode/tree/main/1345-jump-game-iv/) | Hard |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/Sahilsharma-ss/LeetCode/tree/main/1483-kth-ancestor-of-a-tree-node/) | Hard |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Sahilsharma-ss/LeetCode/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
+| [2685-count-the-number-of-complete-components](https://github.com/Sahilsharma-ss/LeetCode/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Sahilsharma-ss/LeetCode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Sahilsharma-ss/LeetCode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 ## Heap (Priority Queue)
@@ -149,6 +150,7 @@ leetCode solutions.
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Sahilsharma-ss/LeetCode/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/Sahilsharma-ss/LeetCode/tree/main/1483-kth-ancestor-of-a-tree-node/) | Hard |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Sahilsharma-ss/LeetCode/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
+| [2685-count-the-number-of-complete-components](https://github.com/Sahilsharma-ss/LeetCode/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Sahilsharma-ss/LeetCode/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Sahilsharma-ss/LeetCode/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 ## Graph Theory
@@ -161,6 +163,7 @@ leetCode solutions.
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0947-most-stones-removed-with-same-row-or-column/) | Medium |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Sahilsharma-ss/LeetCode/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Sahilsharma-ss/LeetCode/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
+| [2685-count-the-number-of-complete-components](https://github.com/Sahilsharma-ss/LeetCode/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Sahilsharma-ss/LeetCode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Sahilsharma-ss/LeetCode/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Sahilsharma-ss/LeetCode/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
@@ -215,6 +218,7 @@ leetCode solutions.
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0947-most-stones-removed-with-same-row-or-column/) | Medium |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Sahilsharma-ss/LeetCode/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Sahilsharma-ss/LeetCode/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
+| [2685-count-the-number-of-complete-components](https://github.com/Sahilsharma-ss/LeetCode/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Sahilsharma-ss/LeetCode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Sahilsharma-ss/LeetCode/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 ## Sliding Window
