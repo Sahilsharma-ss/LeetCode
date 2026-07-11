@@ -1,56 +1,84 @@
 class Solution {
 public:
+    void dfs(int node,unordered_map<int,vector<int>>&adj,vector<int>&vis,int &n,int &cnt)
+    {
+        if(vis[node]) return;
+        if(!vis[node])
+        {
+            n++;
+            vis[node]=true;
+        }
+        cnt= cnt+adj[node].size();
+        for(auto i : adj[node])
+        {
+           if(!vis[i])
+           {
+            dfs(i,adj,vis,n,cnt);
+           } 
+        }
+    }
     int countCompleteComponents(int n, vector<vector<int>>& edges) {
-        vector<int> parent(n), rank(n, 0);
-        iota(parent.begin(), parent.end(), 0);
-        
-        function<int(int)> find = [&](int x) {
-            if (parent[x] != x) {
-                parent[x] = find(parent[x]);
+    //     sort(edges.begin(),edges.end());
+    //     unordered_map<int,int>mp;
+    //     for(int i =0;i<n;i++)
+    //     {
+    //         mp[i] = i;
+    //     }
+    //     vector<int>cnt(n,0);
+    //     for(auto i : edges)
+    //     {
+    //         int a = i[0];
+    //         int b = i[1];
+    //         mp[b] = mp[a];
+    //         cnt[mp[a]]++;
+    //     }
+    //     unordered_set<int>st;
+    //     // for(auto i : cnt)
+    //     // {
+    //     //     cout<<i<<" ";
+    //     // }
+    //    // cout<<endl;
+    //     unordered_map<int,int>no;
+    //     for(auto i : mp)
+    //     {
+    //        no[i.second]++;
+    //     }
+    //     int ans = 0;
+    //     for(auto i : no)
+    //     {
+    //        // cout<<i.first<<" "<<i.second<<endl;
+    //         int edge = i.second;
+    //        // cout<<i.second<<" "<<((edge*(edge-1))/2)<<endl;
+    //         if( cnt[i.first] == ((edge*(edge-1))/2))
+    //         {
+    //             ans++;
+    //         }
+    //     }
+    //     return ans;
+    unordered_map<int,vector<int>>mp;
+    int ans = 0;
+    for(auto i : edges)
+    {
+        int a= i[0];
+        int b = i[1];
+        mp[a].push_back(b);
+        mp[b].push_back(a);
+    }
+        vector<int>vis(n,false);
+        for(int i =0;i<n;i++)
+        {
+            if(!vis[i])
+            {
+                int node = 0;
+                int cnt = 0;
+                dfs(i,mp,vis,node,cnt);
+                cnt/=2;
+                if(cnt ==((node*(node-1))/2))
+                {
+                    ans++;
+                }
             }
-            return parent[x];
-        };
-        
-        auto unionSets = [&](int x, int y) {
-            int rootX = find(x);
-            int rootY = find(y);
-            if (rootX == rootY) return;
-            if (rank[rootX] < rank[rootY]) {
-                parent[rootX] = rootY;
-            } else if (rank[rootX] > rank[rootY]) {
-                parent[rootY] = rootX;
-            } else {
-                parent[rootY] = rootX;
-                rank[rootX]++;
-            }
-        };
-        
-        for (auto& edge : edges) {
-            unionSets(edge[0], edge[1]);
         }
-        
-        unordered_map<int, unordered_set<int>> componentVertices;
-        unordered_map<int, int> componentEdges;
-        
-        for (int i = 0; i < n; ++i) {
-            int root = find(i);
-            componentVertices[root].insert(i);
-        }
-        
-        for (auto& edge : edges) {
-            int root = find(edge[0]);
-            componentEdges[root]++;
-        }
-        
-        int completeCount = 0;
-        for (auto& [root, vertices] : componentVertices) {
-            int numVertices = vertices.size();
-            int expectedEdges = numVertices * (numVertices - 1) / 2;
-            if (componentEdges[root] == expectedEdges) {
-                completeCount++;
-            }
-        }
-        
-        return completeCount;
+        return ans;
     }
 };
