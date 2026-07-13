@@ -411,6 +411,7 @@ leetCode solutions.
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1291-sequential-digits](https://github.com/Sahilsharma-ss/LeetCode/tree/main/1291-sequential-digits/) | Medium |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Sahilsharma-ss/LeetCode/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 ## Combinatorics
 | Problem Name | Difficulty |
