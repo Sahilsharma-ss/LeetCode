@@ -28,6 +28,7 @@ leetCode solutions.
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/Sahilsharma-ss/LeetCode/tree/main/1707-maximum-xor-with-an-element-from-array/) | Hard |
 | [1732-find-the-highest-altitude](https://github.com/Sahilsharma-ss/LeetCode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Sahilsharma-ss/LeetCode/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
+| [1755-closest-subsequence-sum](https://github.com/Sahilsharma-ss/LeetCode/tree/main/1755-closest-subsequence-sum/) | Hard |
 | [1833-maximum-ice-cream-bars](https://github.com/Sahilsharma-ss/LeetCode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1840-maximum-building-height](https://github.com/Sahilsharma-ss/LeetCode/tree/main/1840-maximum-building-height/) | Hard |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Sahilsharma-ss/LeetCode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
@@ -187,6 +188,7 @@ leetCode solutions.
 | [1463-cherry-pickup-ii](https://github.com/Sahilsharma-ss/LeetCode/tree/main/1463-cherry-pickup-ii/) | Hard |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/Sahilsharma-ss/LeetCode/tree/main/1483-kth-ancestor-of-a-tree-node/) | Hard |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Sahilsharma-ss/LeetCode/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
+| [1755-closest-subsequence-sum](https://github.com/Sahilsharma-ss/LeetCode/tree/main/1755-closest-subsequence-sum/) | Hard |
 | [1871-jump-game-vii](https://github.com/Sahilsharma-ss/LeetCode/tree/main/1871-jump-game-vii/) | Medium |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Sahilsharma-ss/LeetCode/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [2063-vowels-of-all-substrings](https://github.com/Sahilsharma-ss/LeetCode/tree/main/2063-vowels-of-all-substrings/) | Medium |
@@ -267,6 +269,7 @@ leetCode solutions.
 | [1288-remove-covered-intervals](https://github.com/Sahilsharma-ss/LeetCode/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/Sahilsharma-ss/LeetCode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Sahilsharma-ss/LeetCode/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
+| [1755-closest-subsequence-sum](https://github.com/Sahilsharma-ss/LeetCode/tree/main/1755-closest-subsequence-sum/) | Hard |
 | [1833-maximum-ice-cream-bars](https://github.com/Sahilsharma-ss/LeetCode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1840-maximum-building-height](https://github.com/Sahilsharma-ss/LeetCode/tree/main/1840-maximum-building-height/) | Hard |
 | [2126-destroying-asteroids](https://github.com/Sahilsharma-ss/LeetCode/tree/main/2126-destroying-asteroids/) | Medium |
@@ -299,6 +302,7 @@ leetCode solutions.
 | [1009-complement-of-base-10-integer](https://github.com/Sahilsharma-ss/LeetCode/tree/main/1009-complement-of-base-10-integer/) | Easy |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/Sahilsharma-ss/LeetCode/tree/main/1483-kth-ancestor-of-a-tree-node/) | Hard |
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/Sahilsharma-ss/LeetCode/tree/main/1707-maximum-xor-with-an-element-from-array/) | Hard |
+| [1755-closest-subsequence-sum](https://github.com/Sahilsharma-ss/LeetCode/tree/main/1755-closest-subsequence-sum/) | Hard |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Sahilsharma-ss/LeetCode/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Sahilsharma-ss/LeetCode/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Sahilsharma-ss/LeetCode/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
@@ -321,6 +325,7 @@ leetCode solutions.
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1755-closest-subsequence-sum](https://github.com/Sahilsharma-ss/LeetCode/tree/main/1755-closest-subsequence-sum/) | Hard |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Sahilsharma-ss/LeetCode/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Sahilsharma-ss/LeetCode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2540-minimum-common-value](https://github.com/Sahilsharma-ss/LeetCode/tree/main/2540-minimum-common-value/) | Easy |
@@ -431,4 +436,8 @@ leetCode solutions.
 | ------- | ------- |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Sahilsharma-ss/LeetCode/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Sahilsharma-ss/LeetCode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
+## Bitmask
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1755-closest-subsequence-sum](https://github.com/Sahilsharma-ss/LeetCode/tree/main/1755-closest-subsequence-sum/) | Hard |
 <!---LeetCode Topics End-->
