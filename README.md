@@ -25,6 +25,7 @@ leetCode solutions.
 | [1331-rank-transform-of-an-array](https://github.com/Sahilsharma-ss/LeetCode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1345-jump-game-iv](https://github.com/Sahilsharma-ss/LeetCode/tree/main/1345-jump-game-iv/) | Hard |
 | [1463-cherry-pickup-ii](https://github.com/Sahilsharma-ss/LeetCode/tree/main/1463-cherry-pickup-ii/) | Hard |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sahilsharma-ss/LeetCode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Sahilsharma-ss/LeetCode/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Sahilsharma-ss/LeetCode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/Sahilsharma-ss/LeetCode/tree/main/1707-maximum-xor-with-an-element-from-array/) | Hard |
@@ -90,6 +91,7 @@ leetCode solutions.
 | ------- | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0407-trapping-rain-water-ii/) | Hard |
 | [1268-search-suggestions-system](https://github.com/Sahilsharma-ss/LeetCode/tree/main/1268-search-suggestions-system/) | Medium |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sahilsharma-ss/LeetCode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Sahilsharma-ss/LeetCode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Sahilsharma-ss/LeetCode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3620-network-recovery-pathways](https://github.com/Sahilsharma-ss/LeetCode/tree/main/3620-network-recovery-pathways/) | Hard |
@@ -287,6 +289,7 @@ leetCode solutions.
 | [1268-search-suggestions-system](https://github.com/Sahilsharma-ss/LeetCode/tree/main/1268-search-suggestions-system/) | Medium |
 | [1288-remove-covered-intervals](https://github.com/Sahilsharma-ss/LeetCode/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/Sahilsharma-ss/LeetCode/tree/main/1331-rank-transform-of-an-array/) | Easy |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sahilsharma-ss/LeetCode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Sahilsharma-ss/LeetCode/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
 | [1755-closest-subsequence-sum](https://github.com/Sahilsharma-ss/LeetCode/tree/main/1755-closest-subsequence-sum/) | Hard |
 | [1833-maximum-ice-cream-bars](https://github.com/Sahilsharma-ss/LeetCode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
