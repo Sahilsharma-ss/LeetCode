@@ -2,7 +2,6 @@ class Solution {
 public:
     int minimumPushes(string word) {
         int sz = word.size();
-        cout<<sz;
         if(sz<=8)
         {
             return sz;
