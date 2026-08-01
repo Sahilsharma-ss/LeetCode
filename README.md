@@ -9,6 +9,7 @@ leetCode solutions.
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0407-trapping-rain-water-ii](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0407-trapping-rain-water-ii/) | Hard |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0421-maximum-xor-of-two-numbers-in-an-array/) | Medium |
+| [0486-predict-the-winner](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0486-predict-the-winner/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0648-replace-words](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0648-replace-words/) | Medium |
 | [0720-longest-word-in-dictionary](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0720-longest-word-in-dictionary/) | Medium |
@@ -148,6 +149,7 @@ leetCode solutions.
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0486-predict-the-winner](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0486-predict-the-winner/) | Medium |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Sahilsharma-ss/LeetCode/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
@@ -201,6 +203,7 @@ leetCode solutions.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0343-integer-break](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0343-integer-break/) | Medium |
+| [0486-predict-the-winner](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0486-predict-the-winner/) | Medium |
 | [0741-cherry-pickup](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0741-cherry-pickup/) | Hard |
 | [1000-minimum-cost-to-merge-stones](https://github.com/Sahilsharma-ss/LeetCode/tree/main/1000-minimum-cost-to-merge-stones/) | Hard |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Sahilsharma-ss/LeetCode/tree/main/1235-maximum-profit-in-job-scheduling/) | Hard |
@@ -396,6 +399,7 @@ leetCode solutions.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0343-integer-break](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0343-integer-break/) | Medium |
+| [0486-predict-the-winner](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0486-predict-the-winner/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Sahilsharma-ss/LeetCode/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1840-maximum-building-height](https://github.com/Sahilsharma-ss/LeetCode/tree/main/1840-maximum-building-height/) | Hard |
@@ -503,4 +507,8 @@ leetCode solutions.
 | ------- | ------- |
 | [0316-remove-duplicate-letters](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Sahilsharma-ss/LeetCode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0486-predict-the-winner](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0486-predict-the-winner/) | Medium |
 <!---LeetCode Topics End-->
