@@ -38,6 +38,7 @@ leetCode solutions.
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Sahilsharma-ss/LeetCode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Sahilsharma-ss/LeetCode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/Sahilsharma-ss/LeetCode/tree/main/1980-find-unique-binary-string/) | Medium |
+| [1986-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/Sahilsharma-ss/LeetCode/tree/main/1986-minimum-number-of-work-sessions-to-finish-the-tasks/) | Medium |
 | [2126-destroying-asteroids](https://github.com/Sahilsharma-ss/LeetCode/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Sahilsharma-ss/LeetCode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Sahilsharma-ss/LeetCode/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
@@ -214,6 +215,7 @@ leetCode solutions.
 | [1755-closest-subsequence-sum](https://github.com/Sahilsharma-ss/LeetCode/tree/main/1755-closest-subsequence-sum/) | Hard |
 | [1871-jump-game-vii](https://github.com/Sahilsharma-ss/LeetCode/tree/main/1871-jump-game-vii/) | Medium |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Sahilsharma-ss/LeetCode/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
+| [1986-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/Sahilsharma-ss/LeetCode/tree/main/1986-minimum-number-of-work-sessions-to-finish-the-tasks/) | Medium |
 | [2063-vowels-of-all-substrings](https://github.com/Sahilsharma-ss/LeetCode/tree/main/2063-vowels-of-all-substrings/) | Medium |
 | [2957-remove-adjacent-almost-equal-characters](https://github.com/Sahilsharma-ss/LeetCode/tree/main/2957-remove-adjacent-almost-equal-characters/) | Medium |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Sahilsharma-ss/LeetCode/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
@@ -317,6 +319,7 @@ leetCode solutions.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1980-find-unique-binary-string](https://github.com/Sahilsharma-ss/LeetCode/tree/main/1980-find-unique-binary-string/) | Medium |
+| [1986-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/Sahilsharma-ss/LeetCode/tree/main/1986-minimum-number-of-work-sessions-to-finish-the-tasks/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -339,6 +342,7 @@ leetCode solutions.
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/Sahilsharma-ss/LeetCode/tree/main/1483-kth-ancestor-of-a-tree-node/) | Hard |
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/Sahilsharma-ss/LeetCode/tree/main/1707-maximum-xor-with-an-element-from-array/) | Hard |
 | [1755-closest-subsequence-sum](https://github.com/Sahilsharma-ss/LeetCode/tree/main/1755-closest-subsequence-sum/) | Hard |
+| [1986-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/Sahilsharma-ss/LeetCode/tree/main/1986-minimum-number-of-work-sessions-to-finish-the-tasks/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Sahilsharma-ss/LeetCode/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Sahilsharma-ss/LeetCode/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Sahilsharma-ss/LeetCode/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
@@ -502,6 +506,7 @@ leetCode solutions.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1755-closest-subsequence-sum](https://github.com/Sahilsharma-ss/LeetCode/tree/main/1755-closest-subsequence-sum/) | Hard |
+| [1986-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/Sahilsharma-ss/LeetCode/tree/main/1986-minimum-number-of-work-sessions-to-finish-the-tasks/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
