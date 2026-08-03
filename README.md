@@ -215,6 +215,7 @@ leetCode solutions.
 | [0741-cherry-pickup](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0741-cherry-pickup/) | Hard |
 | [0877-stone-game](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0877-stone-game/) | Medium |
 | [1000-minimum-cost-to-merge-stones](https://github.com/Sahilsharma-ss/LeetCode/tree/main/1000-minimum-cost-to-merge-stones/) | Hard |
+| [1012-numbers-with-repeated-digits](https://github.com/Sahilsharma-ss/LeetCode/tree/main/1012-numbers-with-repeated-digits/) | Hard |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Sahilsharma-ss/LeetCode/tree/main/1235-maximum-profit-in-job-scheduling/) | Hard |
 | [1301-number-of-paths-with-max-score](https://github.com/Sahilsharma-ss/LeetCode/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1406-stone-game-iii](https://github.com/Sahilsharma-ss/LeetCode/tree/main/1406-stone-game-iii/) | Hard |
@@ -422,6 +423,7 @@ leetCode solutions.
 | [0486-predict-the-winner](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0486-predict-the-winner/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0877-stone-game](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0877-stone-game/) | Medium |
+| [1012-numbers-with-repeated-digits](https://github.com/Sahilsharma-ss/LeetCode/tree/main/1012-numbers-with-repeated-digits/) | Hard |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Sahilsharma-ss/LeetCode/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1406-stone-game-iii](https://github.com/Sahilsharma-ss/LeetCode/tree/main/1406-stone-game-iii/) | Hard |
 | [1840-maximum-building-height](https://github.com/Sahilsharma-ss/LeetCode/tree/main/1840-maximum-building-height/) | Hard |
