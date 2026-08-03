@@ -28,6 +28,7 @@ leetCode solutions.
 | [1306-jump-game-iii](https://github.com/Sahilsharma-ss/LeetCode/tree/main/1306-jump-game-iii/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/Sahilsharma-ss/LeetCode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1345-jump-game-iv](https://github.com/Sahilsharma-ss/LeetCode/tree/main/1345-jump-game-iv/) | Hard |
+| [1406-stone-game-iii](https://github.com/Sahilsharma-ss/LeetCode/tree/main/1406-stone-game-iii/) | Hard |
 | [1463-cherry-pickup-ii](https://github.com/Sahilsharma-ss/LeetCode/tree/main/1463-cherry-pickup-ii/) | Hard |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sahilsharma-ss/LeetCode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Sahilsharma-ss/LeetCode/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
@@ -216,6 +217,7 @@ leetCode solutions.
 | [1000-minimum-cost-to-merge-stones](https://github.com/Sahilsharma-ss/LeetCode/tree/main/1000-minimum-cost-to-merge-stones/) | Hard |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Sahilsharma-ss/LeetCode/tree/main/1235-maximum-profit-in-job-scheduling/) | Hard |
 | [1301-number-of-paths-with-max-score](https://github.com/Sahilsharma-ss/LeetCode/tree/main/1301-number-of-paths-with-max-score/) | Hard |
+| [1406-stone-game-iii](https://github.com/Sahilsharma-ss/LeetCode/tree/main/1406-stone-game-iii/) | Hard |
 | [1463-cherry-pickup-ii](https://github.com/Sahilsharma-ss/LeetCode/tree/main/1463-cherry-pickup-ii/) | Hard |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/Sahilsharma-ss/LeetCode/tree/main/1483-kth-ancestor-of-a-tree-node/) | Hard |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Sahilsharma-ss/LeetCode/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
@@ -421,6 +423,7 @@ leetCode solutions.
 | [0628-maximum-product-of-three-numbers](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0877-stone-game](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0877-stone-game/) | Medium |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Sahilsharma-ss/LeetCode/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
+| [1406-stone-game-iii](https://github.com/Sahilsharma-ss/LeetCode/tree/main/1406-stone-game-iii/) | Hard |
 | [1840-maximum-building-height](https://github.com/Sahilsharma-ss/LeetCode/tree/main/1840-maximum-building-height/) | Hard |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Sahilsharma-ss/LeetCode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2063-vowels-of-all-substrings](https://github.com/Sahilsharma-ss/LeetCode/tree/main/2063-vowels-of-all-substrings/) | Medium |
@@ -536,8 +539,17 @@ leetCode solutions.
 | ------- | ------- |
 | [0486-predict-the-winner](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0877-stone-game/) | Medium |
+| [1406-stone-game-iii](https://github.com/Sahilsharma-ss/LeetCode/tree/main/1406-stone-game-iii/) | Hard |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0698-partition-to-k-equal-sum-subsets/) | Medium |
+## Minimax
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1406-stone-game-iii](https://github.com/Sahilsharma-ss/LeetCode/tree/main/1406-stone-game-iii/) | Hard |
+## Zero-Sum Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1406-stone-game-iii](https://github.com/Sahilsharma-ss/LeetCode/tree/main/1406-stone-game-iii/) | Hard |
 <!---LeetCode Topics End-->
