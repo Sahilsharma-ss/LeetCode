@@ -8,6 +8,7 @@ leetCode solutions.
 | [0001-two-sum](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0001-two-sum/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0049-group-anagrams](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0049-group-anagrams/) | Medium |
+| [0053-maximum-subarray](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0238-product-of-array-except-self](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0238-product-of-array-except-self/) | Medium |
@@ -217,6 +218,7 @@ leetCode solutions.
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
 | [0343-integer-break](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0343-integer-break/) | Medium |
 | [0486-predict-the-winner](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0486-predict-the-winner/) | Medium |
 | [0526-beautiful-arrangement](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0526-beautiful-arrangement/) | Medium |
@@ -518,6 +520,7 @@ leetCode solutions.
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Sahilsharma-ss/LeetCode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Sahilsharma-ss/LeetCode/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 ## Merge Sort
