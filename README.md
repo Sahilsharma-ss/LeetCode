@@ -10,6 +10,7 @@ leetCode solutions.
 | [0049-group-anagrams](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0049-group-anagrams/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
+| [0238-product-of-array-except-self](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0407-trapping-rain-water-ii](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0407-trapping-rain-water-ii/) | Hard |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0421-maximum-xor-of-two-numbers-in-an-array/) | Medium |
 | [0486-predict-the-winner](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0486-predict-the-winner/) | Medium |
@@ -357,6 +358,7 @@ leetCode solutions.
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0238-product-of-array-except-self](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [1000-minimum-cost-to-merge-stones](https://github.com/Sahilsharma-ss/LeetCode/tree/main/1000-minimum-cost-to-merge-stones/) | Hard |
 | [1140-stone-game-ii](https://github.com/Sahilsharma-ss/LeetCode/tree/main/1140-stone-game-ii/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/Sahilsharma-ss/LeetCode/tree/main/1732-find-the-highest-altitude/) | Easy |
