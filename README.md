@@ -18,6 +18,7 @@ leetCode solutions.
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0421-maximum-xor-of-two-numbers-in-an-array/) | Medium |
 | [0486-predict-the-winner](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0486-predict-the-winner/) | Medium |
 | [0526-beautiful-arrangement](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0526-beautiful-arrangement/) | Medium |
+| [0560-subarray-sum-equals-k](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0648-replace-words](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0648-replace-words/) | Medium |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0698-partition-to-k-equal-sum-subsets/) | Medium |
@@ -300,6 +301,7 @@ leetCode solutions.
 | [0128-longest-consecutive-sequence](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0208-implement-trie-prefix-tree](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0421-maximum-xor-of-two-numbers-in-an-array/) | Medium |
+| [0560-subarray-sum-equals-k](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0648-replace-words](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0648-replace-words/) | Medium |
 | [0676-implement-magic-dictionary](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0676-implement-magic-dictionary/) | Medium |
 | [0677-map-sum-pairs](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0677-map-sum-pairs/) | Medium |
@@ -365,6 +367,7 @@ leetCode solutions.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0560-subarray-sum-equals-k](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1000-minimum-cost-to-merge-stones](https://github.com/Sahilsharma-ss/LeetCode/tree/main/1000-minimum-cost-to-merge-stones/) | Hard |
 | [1140-stone-game-ii](https://github.com/Sahilsharma-ss/LeetCode/tree/main/1140-stone-game-ii/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/Sahilsharma-ss/LeetCode/tree/main/1732-find-the-highest-altitude/) | Easy |
