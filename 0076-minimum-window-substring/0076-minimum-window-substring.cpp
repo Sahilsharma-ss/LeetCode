@@ -1,35 +1,48 @@
 class Solution {
 public:
-    string minWindow(string s, string t) {
-        vector<int>hash(256,0);
-        int l=0,r=0,minlen=1e9,sind=-1,cnt=0;
-        for(int i=0;i<t.size();i++)
+    bool check(vector<int>&str,vector<int>&vec)
+    {
+        for(int i =0;i<256;i++)
         {
-            hash[t[i]]++;
-        }
-        while(r<s.size())
-        {
-            if(hash[s[r]]>0)
+            if(str[i]<vec[i])
             {
-                cnt++;
+                return false;
             }
-             hash[s[r]]--;
-                while(cnt==t.size())
+        }
+        return true;
+    }
+    string minWindow(string s, string t) {
+        vector<int>vec(256,0);
+        for(int i : t)
+        {
+            vec[i]++;
+        }
+        vector<int>str(256,0);
+        int l =0 ;
+        int r =0;
+        int n = s.size();
+        pair<int,int> ans = {-1,-1};
+        int maxi = 1e9;
+        while(r<n)
+        {
+            str[s[r]]++;
+            while(l<n && str[s[l]]>vec[s[l]])
+            {
+                str[s[l]]--;
+                l++;
+            }
+            if(check(str,vec))
+            {
+                if(r-l+1 < maxi)
                 {
-                    if(r-l+1<minlen)
-                    {
-                        minlen=r-l+1;
-                        sind=l;
-                    }
-                    hash[s[l]]++;
-                    if(hash[s[l]]>0)
-                    {
-                        cnt--;
-                    }
-                    l++;
+                    maxi = r-l+1;
+                    ans  = {l,r};
                 }
+            }
             r++;
         }
-        return sind==-1?"":s.substr(sind,minlen);
+        if(ans.first==-1 && ans.second) return "";
+        return s.substr(ans.first,ans.second-ans.first+1);
+        
     }
 };
