@@ -1,24 +1,40 @@
 class Solution {
 public:
+    bool check( unordered_map<int,int>&mp,int k)
+    {
+        int maxi = 0;
+        int sum =0 ;
+        for(auto i : mp)
+        {
+            maxi = max(maxi,i.second);
+            sum += i.second;
+        }
+        return sum-maxi<=k;
+    }
     int characterReplacement(string s, int k) {
-        int n=s.size();
-        int hash[26]={0};
-        int l=0,r=0,maxf=0,maxlen=0;
+        unordered_map<int,int>mp;
+        int l =0;
+        int r =0;
+        int n =s.size();
+        int ans =0 ;
         while(r<n)
         {
-            hash[s[r]-'A']++;
-            maxf=max(maxf,hash[s[r]-'A']);
-            if((r-l+1)-maxf>k)
+            mp[s[r]]++;
+            while(l<n && !check(mp,k))
             {
-                hash[s[l]-'A']--;
+                mp[s[l]]--;
+                if(mp[s[l]]==0)
+                {
+                    mp.erase(s[l]);
+                }
                 l++;
-            }
-            if((r-l+1)-maxf<=k)
+            } 
+            if(check(mp,k))
             {
-                maxlen=max(maxlen,r-l+1);
+                ans = max(ans,r-l+1);
             }
             r++;
         }
-        return maxlen;
+        return ans;
     }
 };
