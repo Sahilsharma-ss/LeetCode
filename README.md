@@ -132,6 +132,7 @@ leetCode solutions.
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0049-group-anagrams](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0049-group-anagrams/) | Medium |
+| [0076-minimum-window-substring](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0076-minimum-window-substring/) | Hard |
 | [0208-implement-trie-prefix-tree](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 | [0316-remove-duplicate-letters](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0316-remove-duplicate-letters/) | Medium |
@@ -296,6 +297,7 @@ leetCode solutions.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0076-minimum-window-substring](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0076-minimum-window-substring/) | Hard |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Sahilsharma-ss/LeetCode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1871-jump-game-vii](https://github.com/Sahilsharma-ss/LeetCode/tree/main/1871-jump-game-vii/) | Medium |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Sahilsharma-ss/LeetCode/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
@@ -305,6 +307,7 @@ leetCode solutions.
 | [0001-two-sum](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0049-group-anagrams](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0049-group-anagrams/) | Medium |
+| [0076-minimum-window-substring](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0076-minimum-window-substring/) | Hard |
 | [0128-longest-consecutive-sequence](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0208-implement-trie-prefix-tree](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0380-insert-delete-getrandom-o1](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
