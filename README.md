@@ -12,6 +12,7 @@ leetCode solutions.
 | [0049-group-anagrams](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0049-group-anagrams/) | Medium |
 | [0053-maximum-subarray](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0238-product-of-array-except-self](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0380-insert-delete-getrandom-o1](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
@@ -424,6 +425,7 @@ leetCode solutions.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Sahilsharma-ss/LeetCode/tree/main/1235-maximum-profit-in-job-scheduling/) | Hard |
 | [1268-search-suggestions-system](https://github.com/Sahilsharma-ss/LeetCode/tree/main/1268-search-suggestions-system/) | Medium |
