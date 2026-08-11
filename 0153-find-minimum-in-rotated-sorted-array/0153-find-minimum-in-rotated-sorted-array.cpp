@@ -1,21 +1,20 @@
 class Solution {
 public:
     int findMin(vector<int>& nums) {
-        int s = 0;                  
-        int e = nums.size() - 1;     
-
-        while (s < e) {
-            int mid = s + (e - s) / 2;
-
-
-            if (nums[mid] > nums[e]) {
-                s = mid + 1;         
-            } else {
-                e = mid;             
+        int l = 0;
+        int r = nums.size()-1;
+        while(l<r)
+        {
+            int mid = l+(r-l)/2;
+            if(nums[mid]>nums[r])
+            {
+                l=mid+1;
+            }
+            else
+            {
+                r=mid;
             }
         }
-
-        // At the end, s == e, which points to the smallest element
-        return nums[s];
+        return nums[r];
     }
 };
