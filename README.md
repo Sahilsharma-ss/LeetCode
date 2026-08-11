@@ -45,6 +45,7 @@ leetCode solutions.
 | [1406-stone-game-iii](https://github.com/Sahilsharma-ss/LeetCode/tree/main/1406-stone-game-iii/) | Hard |
 | [1463-cherry-pickup-ii](https://github.com/Sahilsharma-ss/LeetCode/tree/main/1463-cherry-pickup-ii/) | Hard |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sahilsharma-ss/LeetCode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Sahilsharma-ss/LeetCode/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Sahilsharma-ss/LeetCode/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Sahilsharma-ss/LeetCode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/Sahilsharma-ss/LeetCode/tree/main/1707-maximum-xor-with-an-element-from-array/) | Hard |
@@ -433,6 +434,7 @@ leetCode solutions.
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Sahilsharma-ss/LeetCode/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Sahilsharma-ss/LeetCode/tree/main/1235-maximum-profit-in-job-scheduling/) | Hard |
 | [1268-search-suggestions-system](https://github.com/Sahilsharma-ss/LeetCode/tree/main/1268-search-suggestions-system/) | Medium |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Sahilsharma-ss/LeetCode/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/Sahilsharma-ss/LeetCode/tree/main/1483-kth-ancestor-of-a-tree-node/) | Hard |
 | [2540-minimum-common-value](https://github.com/Sahilsharma-ss/LeetCode/tree/main/2540-minimum-common-value/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Sahilsharma-ss/LeetCode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
