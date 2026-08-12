@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/merge-k-sorted-lists/?envType=problem-list-v2&envId=linked-list">23. Merge k Sorted Lists</a></h2><h3>Hard</h3><hr><p>You are given an array of <code>k</code> linked-lists <code>lists</code>, each linked-list is sorted in ascending order.</p>
+<h2><a href="https://leetcode.com/problems/merge-k-sorted-lists">23. Merge k Sorted Lists</a></h2><h3>Hard</h3><hr><p>You are given an array of <code>k</code> linked-lists <code>lists</code>, each linked-list is sorted in ascending order.</p>
 
 <p><em>Merge all the linked-lists into one sorted linked-list and return it.</em></p>
 
@@ -14,7 +14,7 @@
   1-&gt;3-&gt;4,
   2-&gt;6
 ]
-merging them into one sorted list:
+merging them into one sorted linked list:
 1-&gt;1-&gt;2-&gt;3-&gt;4-&gt;4-&gt;5-&gt;6
 </pre>
 
