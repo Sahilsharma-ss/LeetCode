@@ -14,6 +14,7 @@ leetCode solutions.
 | [0128-longest-consecutive-sequence](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
+| [0215-kth-largest-element-in-an-array](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0380-insert-delete-getrandom-o1](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0407-trapping-rain-water-ii](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0407-trapping-rain-water-ii/) | Hard |
@@ -115,6 +116,7 @@ leetCode solutions.
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0407-trapping-rain-water-ii](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0407-trapping-rain-water-ii/) | Hard |
 | [1268-search-suggestions-system](https://github.com/Sahilsharma-ss/LeetCode/tree/main/1268-search-suggestions-system/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sahilsharma-ss/LeetCode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
@@ -362,6 +364,7 @@ leetCode solutions.
 | ------- | ------- |
 | [0015-3sum](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0015-3sum/) | Medium |
 | [0049-group-anagrams](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0049-group-anagrams/) | Medium |
+| [0215-kth-largest-element-in-an-array](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0720-longest-word-in-dictionary](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0720-longest-word-in-dictionary/) | Medium |
 | [0721-accounts-merge](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0721-accounts-merge/) | Medium |
@@ -572,6 +575,7 @@ leetCode solutions.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
+| [0215-kth-largest-element-in-an-array](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Sahilsharma-ss/LeetCode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Sahilsharma-ss/LeetCode/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 ## Merge Sort
@@ -655,4 +659,8 @@ leetCode solutions.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1510-stone-game-iv](https://github.com/Sahilsharma-ss/LeetCode/tree/main/1510-stone-game-iv/) | Hard |
+## Quickselect
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 <!---LeetCode Topics End-->
