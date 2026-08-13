@@ -20,6 +20,7 @@ leetCode solutions.
 | [0407-trapping-rain-water-ii](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0407-trapping-rain-water-ii/) | Hard |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0421-maximum-xor-of-two-numbers-in-an-array/) | Medium |
 | [0486-predict-the-winner](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0486-predict-the-winner/) | Medium |
+| [0496-next-greater-element-i](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0526-beautiful-arrangement](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0526-beautiful-arrangement/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
@@ -333,6 +334,7 @@ leetCode solutions.
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0421-maximum-xor-of-two-numbers-in-an-array/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
+| [0496-next-greater-element-i](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0567-permutation-in-string](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0567-permutation-in-string/) | Medium |
 | [0648-replace-words](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0648-replace-words/) | Medium |
@@ -564,6 +566,7 @@ leetCode solutions.
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
 | [0316-remove-duplicate-letters](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0316-remove-duplicate-letters/) | Medium |
+| [0496-next-greater-element-i](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0735-asteroid-collision](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0739-daily-temperatures/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Sahilsharma-ss/LeetCode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
@@ -630,6 +633,7 @@ leetCode solutions.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0316-remove-duplicate-letters](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0316-remove-duplicate-letters/) | Medium |
+| [0496-next-greater-element-i](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0739-daily-temperatures](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0739-daily-temperatures/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Sahilsharma-ss/LeetCode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 ## Game Theory
