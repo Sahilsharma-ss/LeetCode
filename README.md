@@ -15,6 +15,7 @@ leetCode solutions.
 | [0128-longest-consecutive-sequence](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
+| [0200-number-of-islands](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0200-number-of-islands/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0380-insert-delete-getrandom-o1](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
@@ -102,6 +103,7 @@ leetCode solutions.
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0200-number-of-islands](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0210-course-schedule-ii/) | Medium |
 | [0407-trapping-rain-water-ii](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0407-trapping-rain-water-ii/) | Hard |
@@ -132,6 +134,7 @@ leetCode solutions.
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0200-number-of-islands](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0200-number-of-islands/) | Medium |
 | [0407-trapping-rain-water-ii](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0407-trapping-rain-water-ii/) | Hard |
 | [0741-cherry-pickup](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0741-cherry-pickup/) | Hard |
 | [0994-rotting-oranges](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0994-rotting-oranges/) | Medium |
@@ -208,6 +211,7 @@ leetCode solutions.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0098-validate-binary-search-tree/) | Medium |
+| [0200-number-of-islands](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0210-course-schedule-ii/) | Medium |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
@@ -305,6 +309,7 @@ leetCode solutions.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0200-number-of-islands](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0200-number-of-islands/) | Medium |
 | [0721-accounts-merge](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0721-accounts-merge/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0886-possible-bipartition](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0886-possible-bipartition/) | Medium |
