@@ -10,23 +10,20 @@ public:
         priority_queue<pair<int,int>,vector<pair<int,int>>,greater<pair<int,int>>>pq;
         pq.push({0,k});
         dist[k] = 0;
-        vector<int>vis(n+1,0);
+       // vector<int>vis(n+1,0);
         while(!pq.empty())
         {
             int node = pq.top().second;
             int wt = pq.top().first;
-            vis[node] = 1;
             pq.pop();
+            if(wt > dist[node]) continue; // ignore stale wt
             for(auto i : mp[node])
             {
-                if(!vis[i.first])
-                {
                     if(wt+i.second < dist[i.first])
                     {
                         dist[i.first] = wt+i.second;
                         pq.push({wt+i.second,i.first});
                     }
-                }
             }
         }
         dist[0] = 0;
