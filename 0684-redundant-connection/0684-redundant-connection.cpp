@@ -1,6 +1,6 @@
 class Solution {
 public:
-    vector<int>parent;
+    vector<int>parent,rank;;
     int findit(int a)
     {
         if(a==parent[a]) return a;
@@ -14,6 +14,7 @@ public:
         }
         int n= maxi;
         parent.resize(n+1);
+        rank.resize(n+1,0);
         for(int i =1;i<=n;i++)
         {
             parent[i] = i;
@@ -25,7 +26,19 @@ public:
             int u = findit(a);
             int v = findit(b);
             if(u==v) return i;
-            parent[v] = u;
+            if(rank[u]>rank[v])
+            {
+                parent[v] = u;
+            }
+            else if(rank[v]>rank[u])
+            {
+                parent[u] = v;
+            }
+            else
+            {
+                parent[u] = v;
+                rank[v]++;
+            }
         }
         return {};
     }
