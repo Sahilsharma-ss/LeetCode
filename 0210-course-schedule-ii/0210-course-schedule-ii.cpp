@@ -1,62 +1,41 @@
 class Solution {
 public:
-    bool isdc(int node,unordered_map<int,vector<int>>&adj,vector<int>&vis,vector<int>&pathvis)
-    {
-        vis[node] = 1;
-        pathvis[node] = 1;
-        for(auto i : adj[node])
-        {
-            if(!vis[i]){
-                if(isdc(i,adj,vis,pathvis)) return true;
-            }
-            else if(pathvis[i])
-            {
-                return true;
-            }
-        }
-        pathvis[node] =0;
-        return false;
-    }
-    void order(int node,stack<int>&stk,unordered_map<int,vector<int>>&adj,vector<int>&vis)
-    {
-        vis[node] = 1;
-        for(auto i : adj[node])
-        {
-            if(!vis[i])
-            {
-                order(i,stk,adj,vis);
-            }
-        }
-        stk.push(node);
-    }
     vector<int> findOrder(int numCourses, vector<vector<int>>& prerequisites) {
-        stack<int>stk;
-        unordered_map<int,vector<int>>adj;
+        unordered_map<int,vector<int>>mp;
+        vector<int>indegree(numCourses,0);
         for(auto i : prerequisites)
         {
-            adj[i[1]].push_back(i[0]);
+            mp[i[1]].push_back(i[0]);
+            indegree[i[0]]++;
         }
-        vector<int>vis1(numCourses,0),pathvis(numCourses,0);
+        queue<int>q;
         for(int i=0;i<numCourses;i++)
         {
-            if(isdc(i,adj,vis1,pathvis)) return {};
-        }
-      //  if(isdc(i,stk,adj,vis))
-        vector<int>vis(numCourses,0);
-        for(int i=0;i<numCourses;i++)
-        {
-            if(!vis[i])
+            if(indegree[i]==0)
             {
-                order(i,stk,adj,vis);
+                q.push(i);
             }
         }
-        vector<int>ans;
-        while(!stk.empty())
+        for(int i : indegree)
         {
-            ans.push_back(stk.top());
-            stk.pop();
+            cout<<i<<" ";
         }
-    //    reverse(ans.begin(),ans.end());
-        return ans;
+        vector<int>res;
+        while(!q.empty())
+        {
+            int node = q.front();
+            res.push_back(node);
+            q.pop();
+            for(auto i : mp[node])
+            {
+                indegree[i]--;
+                if(indegree[i]==0)
+                {
+                    q.push(i);
+                }
+            }
+        }
+        if(res.size()!= numCourses) return {};
+        return res;
     }
 };
