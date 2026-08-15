@@ -1,34 +1,33 @@
 class Solution {
 public:
-    bool isbipartite(int node,unordered_map<int,vector<int>>&adj,vector<int>&col,int currcol)
+    bool solve(int node ,vector<vector<int>>& graph, vector<int>&col,int currcol)
     {
         col[node] = currcol;
-        for(auto i : adj[node])
+        for(auto i : graph[node])
         {
-            if(col[node]==col[i])
+            if(col[i]==col[node])
             {
                 return false;
             }
             if(col[i]==-1)
             {
-                if(!isbipartite(i,adj,col,1-currcol)) return false;
+                if(!solve(i,graph,col,1-currcol))
+                {
+                    return false;
+                }
             }
         }
         return true;
     }
     bool isBipartite(vector<vector<int>>& graph) {
-        unordered_map<int,vector<int>>adj;
-        for(int i=0;i<graph.size();i++)
+        int n = graph.size();
+        vector<int>col(n,-1);
+       for(int i = 0; i < n; i++)
         {
-            adj[i] = graph[i];
-        }
-        int v = graph.size();
-        vector<int>col(v,-1);
-        for(int i=0;i<v;i++)
-        {
-            if(col[i]==-1)
+            if(col[i] == -1)
             {
-                if(!isbipartite(i,adj,col,0)) return false;
+                if(!solve(i, graph, col, 0))
+                    return false;
             }
         }
         return true;
