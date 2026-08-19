@@ -44,7 +44,7 @@ public:
             //     }
             // }
             int res = 2-cnt;
-            cout<<res<<" ";
+           // cout<<res<<" ";
             tot -= res;
             
         }
