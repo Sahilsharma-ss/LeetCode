@@ -109,6 +109,7 @@ leetCode solutions.
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0127-word-ladder](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0127-word-ladder/) | Hard |
 | [0200-number-of-islands](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0210-course-schedule-ii/) | Medium |
@@ -160,6 +161,7 @@ leetCode solutions.
 | [0020-valid-parentheses](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
 | [0049-group-anagrams](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0049-group-anagrams/) | Medium |
 | [0076-minimum-window-substring](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0076-minimum-window-substring/) | Hard |
+| [0127-word-ladder](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0127-word-ladder/) | Hard |
 | [0208-implement-trie-prefix-tree](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 | [0316-remove-duplicate-letters](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0316-remove-duplicate-letters/) | Medium |
@@ -358,6 +360,7 @@ leetCode solutions.
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0049-group-anagrams](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0049-group-anagrams/) | Medium |
 | [0076-minimum-window-substring](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0076-minimum-window-substring/) | Hard |
+| [0127-word-ladder](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0127-word-ladder/) | Hard |
 | [0128-longest-consecutive-sequence](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0208-implement-trie-prefix-tree](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0380-insert-delete-getrandom-o1](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
@@ -763,4 +766,8 @@ leetCode solutions.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0743-network-delay-time](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0743-network-delay-time/) | Medium |
+## Bidirectional Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0127-word-ladder](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0127-word-ladder/) | Hard |
 <!---LeetCode Topics End-->
