@@ -12,6 +12,7 @@ leetCode solutions.
 | [0049-group-anagrams](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0049-group-anagrams/) | Medium |
 | [0053-maximum-subarray](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
@@ -362,6 +363,7 @@ leetCode solutions.
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0049-group-anagrams](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0049-group-anagrams/) | Medium |
 | [0076-minimum-window-substring](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0076-minimum-window-substring/) | Hard |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0127-word-ladder](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0127-word-ladder/) | Hard |
 | [0128-longest-consecutive-sequence](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0208-implement-trie-prefix-tree](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0208-implement-trie-prefix-tree/) | Medium |
@@ -592,6 +594,7 @@ leetCode solutions.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0098-validate-binary-search-tree/) | Medium |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/Sahilsharma-ss/LeetCode/tree/main/1483-kth-ancestor-of-a-tree-node/) | Hard |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Sahilsharma-ss/LeetCode/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Sahilsharma-ss/LeetCode/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
@@ -600,6 +603,7 @@ leetCode solutions.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0098-validate-binary-search-tree/) | Medium |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Sahilsharma-ss/LeetCode/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
@@ -633,6 +637,7 @@ leetCode solutions.
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0053-maximum-subarray](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Sahilsharma-ss/LeetCode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Sahilsharma-ss/LeetCode/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
