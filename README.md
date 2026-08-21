@@ -537,6 +537,7 @@ leetCode solutions.
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0155-min-stack](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0155-min-stack/) | Medium |
 | [0208-implement-trie-prefix-tree](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 | [0380-insert-delete-getrandom-o1](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
@@ -620,6 +621,7 @@ leetCode solutions.
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
 | [0084-largest-rectangle-in-histogram](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+| [0155-min-stack](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0155-min-stack/) | Medium |
 | [0316-remove-duplicate-letters](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0735-asteroid-collision](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0735-asteroid-collision/) | Medium |
