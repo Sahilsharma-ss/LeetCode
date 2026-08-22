@@ -76,6 +76,7 @@ leetCode solutions.
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Sahilsharma-ss/LeetCode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Sahilsharma-ss/LeetCode/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Sahilsharma-ss/LeetCode/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
+| [2433-find-the-original-array-of-prefix-xor](https://github.com/Sahilsharma-ss/LeetCode/tree/main/2433-find-the-original-array-of-prefix-xor/) | Medium |
 | [2540-minimum-common-value](https://github.com/Sahilsharma-ss/LeetCode/tree/main/2540-minimum-common-value/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/Sahilsharma-ss/LeetCode/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Sahilsharma-ss/LeetCode/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
@@ -478,6 +479,7 @@ leetCode solutions.
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/Sahilsharma-ss/LeetCode/tree/main/1707-maximum-xor-with-an-element-from-array/) | Hard |
 | [1755-closest-subsequence-sum](https://github.com/Sahilsharma-ss/LeetCode/tree/main/1755-closest-subsequence-sum/) | Hard |
 | [1986-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/Sahilsharma-ss/LeetCode/tree/main/1986-minimum-number-of-work-sessions-to-finish-the-tasks/) | Medium |
+| [2433-find-the-original-array-of-prefix-xor](https://github.com/Sahilsharma-ss/LeetCode/tree/main/2433-find-the-original-array-of-prefix-xor/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Sahilsharma-ss/LeetCode/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2741-special-permutations](https://github.com/Sahilsharma-ss/LeetCode/tree/main/2741-special-permutations/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Sahilsharma-ss/LeetCode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
