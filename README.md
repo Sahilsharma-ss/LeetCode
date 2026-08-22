@@ -14,6 +14,7 @@ leetCode solutions.
 | [0084-largest-rectangle-in-histogram](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0137-single-number-ii](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0137-single-number-ii/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0198-house-robber](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0198-house-robber/) | Medium |
@@ -465,6 +466,7 @@ leetCode solutions.
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0137-single-number-ii](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0137-single-number-ii/) | Medium |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0421-maximum-xor-of-two-numbers-in-an-array/) | Medium |
 | [0526-beautiful-arrangement](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0526-beautiful-arrangement/) | Medium |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0698-partition-to-k-equal-sum-subsets/) | Medium |
