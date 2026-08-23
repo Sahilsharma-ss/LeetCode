@@ -619,6 +619,7 @@ leetCode solutions.
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
+| [0450-delete-node-in-a-bst](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/Sahilsharma-ss/LeetCode/tree/main/1483-kth-ancestor-of-a-tree-node/) | Hard |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Sahilsharma-ss/LeetCode/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
@@ -629,6 +630,7 @@ leetCode solutions.
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
+| [0450-delete-node-in-a-bst](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Sahilsharma-ss/LeetCode/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 ## Linked List
@@ -790,6 +792,7 @@ leetCode solutions.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0098-validate-binary-search-tree/) | Medium |
+| [0450-delete-node-in-a-bst](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 ## Directed Acyclic Graph
 | Problem Name | Difficulty |
