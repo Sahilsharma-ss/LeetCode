@@ -61,6 +61,7 @@ leetCode solutions.
 | [1552-magnetic-force-between-two-balls](https://github.com/Sahilsharma-ss/LeetCode/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 | [1563-stone-game-v](https://github.com/Sahilsharma-ss/LeetCode/tree/main/1563-stone-game-v/) | Hard |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Sahilsharma-ss/LeetCode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Sahilsharma-ss/LeetCode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/Sahilsharma-ss/LeetCode/tree/main/1707-maximum-xor-with-an-element-from-array/) | Hard |
 | [1732-find-the-highest-altitude](https://github.com/Sahilsharma-ss/LeetCode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Sahilsharma-ss/LeetCode/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
@@ -359,6 +360,7 @@ leetCode solutions.
 | [0438-find-all-anagrams-in-a-string](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0567-permutation-in-string](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0567-permutation-in-string/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Sahilsharma-ss/LeetCode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Sahilsharma-ss/LeetCode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1871-jump-game-vii](https://github.com/Sahilsharma-ss/LeetCode/tree/main/1871-jump-game-vii/) | Medium |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Sahilsharma-ss/LeetCode/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Sahilsharma-ss/LeetCode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
@@ -392,6 +394,7 @@ leetCode solutions.
 | [1345-jump-game-iv](https://github.com/Sahilsharma-ss/LeetCode/tree/main/1345-jump-game-iv/) | Hard |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Sahilsharma-ss/LeetCode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/Sahilsharma-ss/LeetCode/tree/main/1386-cinema-seat-allocation/) | Medium |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Sahilsharma-ss/LeetCode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/Sahilsharma-ss/LeetCode/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Sahilsharma-ss/LeetCode/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2540-minimum-common-value](https://github.com/Sahilsharma-ss/LeetCode/tree/main/2540-minimum-common-value/) | Easy |
@@ -457,6 +460,7 @@ leetCode solutions.
 | [0560-subarray-sum-equals-k](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1000-minimum-cost-to-merge-stones](https://github.com/Sahilsharma-ss/LeetCode/tree/main/1000-minimum-cost-to-merge-stones/) | Hard |
 | [1140-stone-game-ii](https://github.com/Sahilsharma-ss/LeetCode/tree/main/1140-stone-game-ii/) | Medium |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Sahilsharma-ss/LeetCode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/Sahilsharma-ss/LeetCode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1871-jump-game-vii](https://github.com/Sahilsharma-ss/LeetCode/tree/main/1871-jump-game-vii/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/Sahilsharma-ss/LeetCode/tree/main/2574-left-and-right-sum-differences/) | Easy |
@@ -503,6 +507,7 @@ leetCode solutions.
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Sahilsharma-ss/LeetCode/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/Sahilsharma-ss/LeetCode/tree/main/1483-kth-ancestor-of-a-tree-node/) | Hard |
 | [1552-magnetic-force-between-two-balls](https://github.com/Sahilsharma-ss/LeetCode/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Sahilsharma-ss/LeetCode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [2540-minimum-common-value](https://github.com/Sahilsharma-ss/LeetCode/tree/main/2540-minimum-common-value/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Sahilsharma-ss/LeetCode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Sahilsharma-ss/LeetCode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
