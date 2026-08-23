@@ -27,10 +27,10 @@ public:
         {
             int target  = x-i;
             if(target<0) continue;
-            cout<<target<<endl;
+           // cout<<target<<endl;
             if(binary_search(suff.begin(),suff.end(),target))
             {
-                cout<<"hello";
+                //cout<<"hello";
                mini1 = min(mini1, (mp2[target]+1) + (mp1[i]+1));
             }
         }
