@@ -112,6 +112,7 @@ leetCode solutions.
 | [3689-maximum-total-subarray-value-i](https://github.com/Sahilsharma-ss/LeetCode/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Sahilsharma-ss/LeetCode/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Sahilsharma-ss/LeetCode/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Sahilsharma-ss/LeetCode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/Sahilsharma-ss/LeetCode/tree/main/3731-find-missing-elements/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Sahilsharma-ss/LeetCode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Sahilsharma-ss/LeetCode/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
@@ -418,6 +419,7 @@ leetCode solutions.
 | [3312-sorted-gcd-pair-queries](https://github.com/Sahilsharma-ss/LeetCode/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Sahilsharma-ss/LeetCode/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Sahilsharma-ss/LeetCode/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Sahilsharma-ss/LeetCode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/Sahilsharma-ss/LeetCode/tree/main/3731-find-missing-elements/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Sahilsharma-ss/LeetCode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Sahilsharma-ss/LeetCode/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
