@@ -200,6 +200,7 @@ leetCode solutions.
 | [1980-find-unique-binary-string](https://github.com/Sahilsharma-ss/LeetCode/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2063-vowels-of-all-substrings](https://github.com/Sahilsharma-ss/LeetCode/tree/main/2063-vowels-of-all-substrings/) | Medium |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Sahilsharma-ss/LeetCode/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Sahilsharma-ss/LeetCode/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [2957-remove-adjacent-almost-equal-characters](https://github.com/Sahilsharma-ss/LeetCode/tree/main/2957-remove-adjacent-almost-equal-characters/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Sahilsharma-ss/LeetCode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Sahilsharma-ss/LeetCode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
@@ -371,6 +372,7 @@ leetCode solutions.
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Sahilsharma-ss/LeetCode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1871-jump-game-vii](https://github.com/Sahilsharma-ss/LeetCode/tree/main/1871-jump-game-vii/) | Medium |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Sahilsharma-ss/LeetCode/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Sahilsharma-ss/LeetCode/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Sahilsharma-ss/LeetCode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Sahilsharma-ss/LeetCode/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 ## Hash Table
