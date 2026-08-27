@@ -26,6 +26,7 @@ leetCode solutions.
 | [0238-product-of-array-except-self](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0260-single-number-iii](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0260-single-number-iii/) | Medium |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [0380-insert-delete-getrandom-o1](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0407-trapping-rain-water-ii](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0407-trapping-rain-water-ii/) | Hard |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0421-maximum-xor-of-two-numbers-in-an-array/) | Medium |
@@ -129,6 +130,7 @@ leetCode solutions.
 | [0200-number-of-islands](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0210-course-schedule-ii/) | Medium |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [0407-trapping-rain-water-ii](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0407-trapping-rain-water-ii/) | Hard |
 | [0684-redundant-connection](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0684-redundant-connection/) | Medium |
 | [0721-accounts-merge](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0721-accounts-merge/) | Medium |
@@ -163,6 +165,7 @@ leetCode solutions.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0200-number-of-islands/) | Medium |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [0407-trapping-rain-water-ii](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0407-trapping-rain-water-ii/) | Hard |
 | [0741-cherry-pickup](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0741-cherry-pickup/) | Hard |
 | [0994-rotting-oranges](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0994-rotting-oranges/) | Medium |
@@ -249,6 +252,7 @@ leetCode solutions.
 | [0207-course-schedule](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0210-course-schedule-ii/) | Medium |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [0676-implement-magic-dictionary](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0676-implement-magic-dictionary/) | Medium |
 | [0684-redundant-connection](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0684-redundant-connection/) | Medium |
 | [0721-accounts-merge](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0721-accounts-merge/) | Medium |
@@ -269,6 +273,7 @@ leetCode solutions.
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0210-course-schedule-ii/) | Medium |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [0684-redundant-connection](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0684-redundant-connection/) | Medium |
 | [0743-network-delay-time](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0743-network-delay-time/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0785-is-graph-bipartite/) | Medium |
@@ -286,6 +291,7 @@ leetCode solutions.
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0210-course-schedule-ii/) | Medium |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/Sahilsharma-ss/LeetCode/tree/main/3620-network-recovery-pathways/) | Hard |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -294,6 +300,7 @@ leetCode solutions.
 | [0070-climbing-stairs](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
 | [0139-word-break](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0139-word-break/) | Medium |
 | [0198-house-robber](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0198-house-robber/) | Medium |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [0343-integer-break](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0343-integer-break/) | Medium |
 | [0486-predict-the-winner](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0486-predict-the-winner/) | Medium |
 | [0526-beautiful-arrangement](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0526-beautiful-arrangement/) | Medium |
@@ -769,6 +776,7 @@ leetCode solutions.
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
 | [0139-word-break](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0139-word-break/) | Medium |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0698-partition-to-k-equal-sum-subsets/) | Medium |
 ## Minimax
 | Problem Name | Difficulty |
@@ -830,6 +838,7 @@ leetCode solutions.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0207-course-schedule/) | Medium |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 ## Graph Coloring
 | Problem Name | Difficulty |
 | ------- | ------- |
