@@ -126,6 +126,7 @@ leetCode solutions.
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0112-path-sum](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0112-path-sum/) | Easy |
 | [0127-word-ladder](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0127-word-ladder/) | Hard |
 | [0200-number-of-islands](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0207-course-schedule/) | Medium |
@@ -249,6 +250,7 @@ leetCode solutions.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0098-validate-binary-search-tree/) | Medium |
+| [0112-path-sum](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0112-path-sum/) | Easy |
 | [0200-number-of-islands](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0210-course-schedule-ii/) | Medium |
@@ -658,6 +660,7 @@ leetCode solutions.
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
+| [0112-path-sum](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0112-path-sum/) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0437-path-sum-iii](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0437-path-sum-iii/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0450-delete-node-in-a-bst/) | Medium |
@@ -671,6 +674,7 @@ leetCode solutions.
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
+| [0112-path-sum](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0112-path-sum/) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0437-path-sum-iii](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0437-path-sum-iii/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0450-delete-node-in-a-bst/) | Medium |
