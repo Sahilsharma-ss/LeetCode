@@ -226,6 +226,7 @@ leetCode solutions.
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Sahilsharma-ss/LeetCode/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3612-process-string-with-special-operations-i](https://github.com/Sahilsharma-ss/LeetCode/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3614-process-string-with-special-operations-ii](https://github.com/Sahilsharma-ss/LeetCode/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Sahilsharma-ss/LeetCode/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Sahilsharma-ss/LeetCode/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/Sahilsharma-ss/LeetCode/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Recursion
@@ -361,6 +362,7 @@ leetCode solutions.
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Sahilsharma-ss/LeetCode/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3689-maximum-total-subarray-value-i](https://github.com/Sahilsharma-ss/LeetCode/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Sahilsharma-ss/LeetCode/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Sahilsharma-ss/LeetCode/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -442,6 +444,7 @@ leetCode solutions.
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Sahilsharma-ss/LeetCode/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Sahilsharma-ss/LeetCode/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Sahilsharma-ss/LeetCode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Sahilsharma-ss/LeetCode/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 | [3731-find-missing-elements](https://github.com/Sahilsharma-ss/LeetCode/tree/main/3731-find-missing-elements/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Sahilsharma-ss/LeetCode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Sahilsharma-ss/LeetCode/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
@@ -695,6 +698,7 @@ leetCode solutions.
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Sahilsharma-ss/LeetCode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/Sahilsharma-ss/LeetCode/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Sahilsharma-ss/LeetCode/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Sahilsharma-ss/LeetCode/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Sahilsharma-ss/LeetCode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -720,6 +724,7 @@ leetCode solutions.
 | [3345-smallest-divisible-digit-product-i](https://github.com/Sahilsharma-ss/LeetCode/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Sahilsharma-ss/LeetCode/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Sahilsharma-ss/LeetCode/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Sahilsharma-ss/LeetCode/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
