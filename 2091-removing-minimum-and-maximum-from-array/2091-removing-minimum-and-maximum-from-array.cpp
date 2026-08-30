@@ -21,7 +21,6 @@ public:
             mini = min(mini,a);
             mini = min(mini,n-b+1);
         }
-        cout<<b<<" "<<a;
         mini = min({mini,b+(n-a+1),a+(n-b+1)});
         return mini;
     }
