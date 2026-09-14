@@ -633,6 +633,7 @@ leetCode solutions.
 | [0380-insert-delete-getrandom-o1](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0486-predict-the-winner](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0486-predict-the-winner/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0836-rectangle-overlap](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0836-rectangle-overlap/) | Easy |
 | [0877-stone-game](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0877-stone-game/) | Medium |
 | [1012-numbers-with-repeated-digits](https://github.com/Sahilsharma-ss/LeetCode/tree/main/1012-numbers-with-repeated-digits/) | Hard |
 | [1140-stone-game-ii](https://github.com/Sahilsharma-ss/LeetCode/tree/main/1140-stone-game-ii/) | Medium |
@@ -926,4 +927,8 @@ leetCode solutions.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0836-rectangle-overlap](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0836-rectangle-overlap/) | Easy |
 <!---LeetCode Topics End-->
