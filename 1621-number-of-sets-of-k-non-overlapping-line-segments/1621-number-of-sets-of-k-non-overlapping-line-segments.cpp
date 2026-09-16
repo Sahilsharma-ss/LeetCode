@@ -3,36 +3,43 @@ public:
     long long mod = 1e9 + 7;
 
     vector<vector<long long>> dp;
-    vector<vector<long long>> sum;
+    vector<vector<long long>> pref;
+
+    long long solve(long long ind, long long k, long long n, long long req) {
+        if (k == req)
+            return 1;
+
+        if (ind >= n)
+            return 0;
+
+        if (dp[ind][k] != -1)
+            return dp[ind][k];
+
+        long long not_take = solve(ind + 1, k, n, req);
+
+        // Sum of:
+        // dp[ind+1][k+1] ... dp[n-1][k+1]
+        long long take = getSum(ind + 1, k + 1, n, req);
+
+        return dp[ind][k] = (not_take + take) % mod;
+    }
+
+    long long getSum(long long ind, long long k, long long n, long long req) {
+        if (ind >= n)
+            return 0;
+
+        if (pref[ind][k] != -1)
+            return pref[ind][k];
+
+        return pref[ind][k] =
+                   (solve(ind, k, n, req) + getSum(ind + 1, k, n, req)) % mod;
+    }
 
     int numberOfSets(long long n, long long k) {
-        dp.resize(n + 1, vector<long long>(k + 1, 0));
-        sum.resize(n + 1, vector<long long>(k + 1, 0));
+        dp.assign(n + 1, vector<long long>(k + 1, -1));
 
-        // Base case:
-        // if(k == req) return 1;
-        for (long long ind = 0; ind <= n; ind++) {
-            dp[ind][k] = 1;
-        }
+        pref.assign(n + 1, vector<long long>(k + 1, -1));
 
-        // sum[ind][k] =
-        // dp[ind][k] + dp[ind+1][k] + ...
-        for (long long ind = n - 1; ind >= 0; ind--) {
-            sum[ind][k] = (dp[ind][k] + sum[ind + 1][k]) % mod;
-        }
-
-        for (long long cnt = k - 1; cnt >= 0; cnt--) {
-            for (long long ind = n - 1; ind >= 0; ind--) {
-                long long not_take = dp[ind + 1][cnt];
-
-                long long take = sum[ind + 1][cnt + 1];
-
-                dp[ind][cnt] = (not_take + take) % mod;
-
-                sum[ind][cnt] = (dp[ind][cnt] + sum[ind + 1][cnt]) % mod;
-            }
-        }
-
-        return dp[0][0];
+        return solve(0, 0, n, k);
     }
 };
