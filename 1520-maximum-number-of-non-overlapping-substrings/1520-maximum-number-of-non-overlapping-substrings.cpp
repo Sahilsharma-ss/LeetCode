@@ -1,86 +1,120 @@
 class Solution {
 public:
 
-vector<string> maxNumOfSubstrings(string s)
-{
-    int n = s.size();
-
-    vector<int> first(26, n);
-    vector<int> last(26, -1);
-
-    for(int i = 0; i < n; i++)
+    vector<int> ch(int f, int l, vector<vector<int>>& vec)
     {
-        int c = s[i] - 'a';
-        first[c] = min(first[c], i);
-        last[c] = i;
+        if(f == 0)
+            return vec[l];
+
+        vector<int> ans(26);
+
+        for(int i = 0; i < 26; i++)
+            ans[i] = vec[l][i] - vec[f - 1][i];
+
+        return ans;
     }
 
-    vector<pair<int, pair<int,int>>> res;
-
-    for(int c = 0; c < 26; c++)
+    vector<string> maxNumOfSubstrings(string s)
     {
-        if(last[c] == -1)
-            continue;
+        int n = s.size();
 
-        int l = first[c];
-        int r = last[c];
+        vector<int> temp(26, 0);
+        vector<vector<int>> cnt;
 
-        bool valid = true;
-
-        for(int j = l; j <= r; j++)
+        for(int i = 0; i < n; i++)
         {
-            int x = s[j] - 'a';
+            temp[s[i] - 'a']++;
+            cnt.push_back(temp);
+        }
 
-            if(first[x] < l)
+        unordered_map<int, pair<int,int>> mp;
+
+        for(int i = 0; i < n; i++)
+        {
+            int c = s[i] - 'a';
+
+            if(mp.find(c) == mp.end())
+                mp[c] = {i, i};
+            else
+                mp[c].second = i;
+        }
+
+        vector<pair<int,pair<int,int>>> res;
+
+        for(auto i : mp)
+        {
+            int first = i.second.first;
+            int last = i.second.second;
+
+            bool valid = true;
+
+            while(true)
             {
-                valid = false;
-                break;
+                int oldFirst = first;
+                int oldLast = last;
+
+                vector<int> check = ch(first, last, cnt);
+
+                for(int j = 0; j < 26; j++)
+                {
+                    if(check[j] > 0)
+                    {
+                        if(mp[j].first < first)
+                        {
+                            valid = false;
+                            break;
+                        }
+
+                        last = max(last, mp[j].second);
+                    }
+                }
+
+                if(!valid)
+                    break;
+
+                if(first == oldFirst && last == oldLast)
+                    break;
             }
 
-            r = max(r, last[x]);
-        }
-
-        if(valid)
-        {
-            res.push_back({
-                r - l + 1,
-                {l, r}
-            });
-        }
-    }
-
-    sort(res.begin(), res.end());
-
-    vector<string> ans;
-    vector<int> marked(n, 0);
-
-    for(auto i : res)
-    {
-        int l = i.second.first;
-        int r = i.second.second;
-
-        bool ok = true;
-
-        for(int j = l; j <= r; j++)
-        {
-            if(marked[j])
+            if(valid)
             {
-                ok = false;
-                break;
+                res.push_back({
+                    last - first + 1,
+                    {first, last}
+                });
             }
         }
 
-        if(ok)
+        sort(res.begin(), res.end());
+
+        vector<string> ans;
+        vector<int> marked(n, 0);
+
+        for(auto i : res)
         {
-            ans.push_back(s.substr(l, r - l + 1));
+            int first = i.second.first;
+            int last = i.second.second;
 
-            for(int j = l; j <= r; j++)
-                marked[j] = 1;
+            bool ok = true;
+
+            for(int j = first; j <= last; j++)
+            {
+                if(marked[j])
+                {
+                    ok = false;
+                    break;
+                }
+            }
+
+            if(ok)
+            {
+                ans.push_back(s.substr(first, last - first + 1));
+
+                for(int j = first; j <= last; j++)
+                    marked[j] = 1;
+            }
         }
+
+        return ans;
     }
-
-    return ans;
-}
-
-
 };
