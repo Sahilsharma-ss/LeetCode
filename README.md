@@ -149,6 +149,7 @@ leetCode solutions.
 | [0839-similar-string-groups](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0839-similar-string-groups/) | Hard |
 | [0886-possible-bipartition](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0886-possible-bipartition/) | Medium |
 | [0994-rotting-oranges](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0994-rotting-oranges/) | Medium |
+| [1096-brace-expansion-ii](https://github.com/Sahilsharma-ss/LeetCode/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1306-jump-game-iii](https://github.com/Sahilsharma-ss/LeetCode/tree/main/1306-jump-game-iii/) | Medium |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Sahilsharma-ss/LeetCode/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
 | [1345-jump-game-iv](https://github.com/Sahilsharma-ss/LeetCode/tree/main/1345-jump-game-iv/) | Hard |
@@ -210,6 +211,7 @@ leetCode solutions.
 | [0839-similar-string-groups](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0839-similar-string-groups/) | Hard |
 | [0940-distinct-subsequences-ii](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Sahilsharma-ss/LeetCode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+| [1096-brace-expansion-ii](https://github.com/Sahilsharma-ss/LeetCode/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1189-maximum-number-of-balloons](https://github.com/Sahilsharma-ss/LeetCode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1268-search-suggestions-system](https://github.com/Sahilsharma-ss/LeetCode/tree/main/1268-search-suggestions-system/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Sahilsharma-ss/LeetCode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
@@ -453,6 +455,7 @@ leetCode solutions.
 | [0721-accounts-merge](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0721-accounts-merge/) | Medium |
 | [0839-similar-string-groups](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0839-similar-string-groups/) | Hard |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0947-most-stones-removed-with-same-row-or-column/) | Medium |
+| [1096-brace-expansion-ii](https://github.com/Sahilsharma-ss/LeetCode/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1189-maximum-number-of-balloons](https://github.com/Sahilsharma-ss/LeetCode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/Sahilsharma-ss/LeetCode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1345-jump-game-iv](https://github.com/Sahilsharma-ss/LeetCode/tree/main/1345-jump-game-iv/) | Hard |
@@ -494,6 +497,7 @@ leetCode solutions.
 | [0720-longest-word-in-dictionary](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0720-longest-word-in-dictionary/) | Medium |
 | [0721-accounts-merge](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0721-accounts-merge/) | Medium |
 | [0881-boats-to-save-people](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0881-boats-to-save-people/) | Medium |
+| [1096-brace-expansion-ii](https://github.com/Sahilsharma-ss/LeetCode/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Sahilsharma-ss/LeetCode/tree/main/1235-maximum-profit-in-job-scheduling/) | Hard |
 | [1268-search-suggestions-system](https://github.com/Sahilsharma-ss/LeetCode/tree/main/1268-search-suggestions-system/) | Medium |
 | [1288-remove-covered-intervals](https://github.com/Sahilsharma-ss/LeetCode/tree/main/1288-remove-covered-intervals/) | Medium |
@@ -524,6 +528,7 @@ leetCode solutions.
 | ------- | ------- |
 | [0526-beautiful-arrangement](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0526-beautiful-arrangement/) | Medium |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0698-partition-to-k-equal-sum-subsets/) | Medium |
+| [1096-brace-expansion-ii](https://github.com/Sahilsharma-ss/LeetCode/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1980-find-unique-binary-string](https://github.com/Sahilsharma-ss/LeetCode/tree/main/1980-find-unique-binary-string/) | Medium |
 | [1986-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/Sahilsharma-ss/LeetCode/tree/main/1986-minimum-number-of-work-sessions-to-finish-the-tasks/) | Medium |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Sahilsharma-ss/LeetCode/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
@@ -749,6 +754,7 @@ leetCode solutions.
 | [0735-asteroid-collision](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/Sahilsharma-ss/LeetCode/tree/main/0739-daily-temperatures/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Sahilsharma-ss/LeetCode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+| [1096-brace-expansion-ii](https://github.com/Sahilsharma-ss/LeetCode/tree/main/1096-brace-expansion-ii/) | Hard |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Sahilsharma-ss/LeetCode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## Counting Sort
 | Problem Name | Difficulty |
